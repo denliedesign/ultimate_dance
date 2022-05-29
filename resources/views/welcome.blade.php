@@ -21,7 +21,7 @@
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-teal">Want To Give It A Try?</p>
-                        <a href="#" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Schedule A Trial!</div></a>
+                        <a href="#" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Schedule A Trial!</div></a>
                         {{--                    <div>--}}
                         {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
                         {{--                    </div>--}}
