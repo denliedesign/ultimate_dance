@@ -22,7 +22,7 @@ body {
 #primary-bg {
     height: 80vh;
     width: 100%;
-    background: url("/images/rockstar-hero.jpg");
+    background: url("/images/bg-primary.JPG");
     background-size: cover;
     background-position: center;
     /*background-attachment: fixed;*/
@@ -52,7 +52,7 @@ body {
 
 #primary-txt {
     position: absolute;
-    top: 20%;
+    top: 25%;
     left: 5%;
     width: 40%;
     /*transform: translate(-50%, -50%);*/
