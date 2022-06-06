@@ -10,7 +10,7 @@
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
 
-        {{--    @include('trial-modal')--}}
+            @include('trial-modal')
 
         <div class="container">
             <div id="next-steps">
@@ -21,7 +21,7 @@
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-teal">Want To Give It A Try?</p>
-                        <a href="#" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Schedule A Trial!</div></a>
+                        <a href="#" class="btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Schedule A Trial!</div></a>
                         {{--                    <div>--}}
                         {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
                         {{--                    </div>--}}

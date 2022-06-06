@@ -62,3 +62,6 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
+Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
