@@ -123,7 +123,7 @@
                         <p class="my-3">
                             <strong>ULTIMATE DANCE FLORIDA is proud to include the AMERICAN BALLET THEATRE® National Training Curriculum</strong>
                             <br><br>
-                            A breakthrough 8 level program that combines high quality artistic training with the basics of dancer health and child development. The ABT® National Training Curriculum consists of a comprehensive set of age-appropriate, outcome-based guidelines to provide the highest quality ballet training to dance students of all ages and skill levels. Pre-Primary through Level 3 will be supervised by ABT® Certified Teacher, Annette Alvarez-Gutches, who has successfully completed the ABT® Teacher Training Intensive in Pre-Primary through Level 3 of the ABT® National Training Curriculum.
+                            A breakthrough 8 level program that combines high quality artistic training with the basics of dancer health and child development. The ABT® National Training Curriculum consists of a comprehensive set of age-appropriate, outcome-based guidelines to provide the highest quality ballet training to dance students of all ages and skill levels. Pre-Primary through Level 3 will be supervised by ABT® Certified Teacher, Annette Alvarez, who has successfully completed the ABT® Teacher Training Intensive in Pre-Primary through Level 3 of the ABT® National Training Curriculum.
                         </p>
                     </div>
                 </div>
@@ -230,7 +230,7 @@
                             </div>
                             <div class="carousel-item">
                                 <p>
-                                    My daughter has almost finished her two weeks in NYC. Between Open Jar and the Rockettes, she had learned so much!! Tomorrow is her performance and then she is taking a tap class at BDC with Jared Grimes and then musical theater on Saturday. I personally want to thank ALL the teachers at Ultimate Dance Florida, past and present and as well as her other master teachers who spent time with her and coached her and believed in her these past 12 years. She is on her way to making her dream come true!! Lastly Annette Alvarez-Gutches- there are many dance studios in our area, but for my daughter,  your studio has made her dream to become a Broadway dancer soon a reality. It isn't about winning the awards, the trophies, but making your dream an reality, and I thank your studio for never giving up on her!
+                                    My daughter has almost finished her two weeks in NYC. Between Open Jar and the Rockettes, she had learned so much!! Tomorrow is her performance and then she is taking a tap class at BDC with Jared Grimes and then musical theater on Saturday. I personally want to thank ALL the teachers at Ultimate Dance Florida, past and present and as well as her other master teachers who spent time with her and coached her and believed in her these past 12 years. She is on her way to making her dream come true!! Lastly Annette Alvarez- there are many dance studios in our area, but for my daughter,  your studio has made her dream to become a Broadway dancer soon a reality. It isn't about winning the awards, the trophies, but making your dream an reality, and I thank your studio for never giving up on her!
                                     <br>
                                     <span class="signed">Lesley C., parent</span>
                                 </p>

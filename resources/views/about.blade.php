@@ -8,13 +8,14 @@
     <div class="container">
         <h1 class="text-center my-4">About</h1>
         <p>
-            ULTIMATE DANCE FLORIDA began in the hustle and bustle of South Florida.  Founded in 1993 by Annette Alvarez-Gutches, ULTIMATE DANCE FLORIDA opened its doors with professional instructors in a beautiful location in South Florida. After 10 successful years, Ms. Annette and her husband Brad decided it was time to move to a smaller, family oriented  town and chose the Space Coast as the location. Upon their move, ULTIMATE DANCE in Melbourne was opened to offer students in east Central Florida the opportunity to experience dance training on a new level, with cutting edge choreography, professional level faculty and high expectations. In the summer of 2011, we were excited to open our second location,  ULTIMATE DANCE in Viera, the premiere dance studio within the Viera community.
+            ULTIMATE DANCE FLORIDA began in the hustle and bustle of South Florida.  Founded in 1993 by Annette Alvarez, ULTIMATE DANCE FLORIDA opened its doors with professional instructors in a beautiful location in South Florida. After 10 successful years, Ms. Annette and her husband Brad decided it was time to move to a smaller, family oriented  town and chose the Space Coast as the location. Upon their move, ULTIMATE DANCE in Melbourne was opened to offer students in east Central Florida the opportunity to experience dance training on a new level, with cutting edge choreography, professional level faculty and high expectations.
+{{--            In the summer of 2011, we were excited to open our second location,  ULTIMATE DANCE in Viera, the premiere dance studio within the Viera community.--}}
             <br><br>
             ULTIMATE DANCE FLORIDA is proud to be recognized as one of the TOP 50 STUDIOS in the SE United States by The Federation of Dance Competitions.
             <br><br>
-            ULTIMATE DANCE FLORIDA is a highly successful and well-respected dance studio with an enrollment of dancers from beginner to professional level. What sets this studio apart from the rest is a team of experienced, enthusiastic, highly energetic professional instructors who are loyal, dedicated, and committed to each student individually. This combined with the expertise and artistic vision of Annette Alvarez-Gutches has brought dance in Brevard county to the next level.
+            ULTIMATE DANCE FLORIDA is a highly successful and well-respected dance studio with an enrollment of dancers from beginner to professional level. What sets this studio apart from the rest is a team of experienced, enthusiastic, highly energetic professional instructors who are loyal, dedicated, and committed to each student individually. This combined with the expertise and artistic vision of Annette Alvarez has brought dance in Brevard county to the next level.
             <br><br>
-            Both locations are fully equipped with state-of-the-art technology, floating dance floors with marley surfaces, and viewing windows for parents peace of mind.
+            Our studio is fully equipped with state-of-the-art technology, floating dance floors with marley surfaces, and viewing windows for parents peace of mind.
             <br><br>
             Classes are educational and provided superior instruction at all levels in jazz, tap, ballet, acrobatics, hip-hop, musical theater, contemporary, lyrical, and specialty classes. We offer discounts for multiple children. Classes are offered six days a week, at various times. Here at ULTIMATE DANCE FLORIDA, your choices are maximized.
             <br><br>
@@ -42,7 +43,7 @@
 {{--            <br>--}}
 {{--            Bad habits need to be broken before they become too ingrained, and thus more difficult to correct. In the dance world, there is no governing body that certifies whether an instructor is qualified to teach. ANYONE can open up a dance school and teach your children.--}}
 {{--            <br><br>--}}
-{{--            In her dance career, Annette Alvarez-Gutches has created and run arts preschool and academic dance programs, choreographed multi-award winning dances for many studios, schools, and venues, all around our great nation, as well as taught professionally for over 30 years. MTV personally requested her for her choreography for a new television series. She is sought out for her master lyrical and jazz classes around the country. She is also a competition judge for some of the most prestigious dance competitions around. Her considerable background in dance serves her well in choosing the most competent instructors to teach your children.--}}
+{{--            In her dance career, Annette Alvarez has created and run arts preschool and academic dance programs, choreographed multi-award winning dances for many studios, schools, and venues, all around our great nation, as well as taught professionally for over 30 years. MTV personally requested her for her choreography for a new television series. She is sought out for her master lyrical and jazz classes around the country. She is also a competition judge for some of the most prestigious dance competitions around. Her considerable background in dance serves her well in choosing the most competent instructors to teach your children.--}}
 {{--            <br><br>--}}
 {{--            At ULTIMATE DANCE we choose instructors who have demonstrated excellence not only as a dancer and teacher, but also in their own dance career.--}}
 {{--        </p>--}}
@@ -54,7 +55,7 @@
                 <h2 class="txt-gold mb-0" style="font-family: 'Niconne', cursive;">Ms. Annette Alvarez</h2>
                 <p class="my-0 fw-bold">Founder & Artistic Director</p>
                 <p>
-                    Ms. Annette Alvarez began dancing at the age of 2 and has never stopped! Ms. Annette has been educating students and teachers professionally since 1982.  In her dance career, Annette Alvarez-Gutches has created and run arts preschool and academic dance programs, choreographed multi-award winning dances for many studios, schools, and venues, all around our great nation.  She is sought out for her master lyrical and jazz classes around the country. She is also a competition judge for some of the most prestigious dance competitions around.
+                    Ms. Annette Alvarez began dancing at the age of 2 and has never stopped! Ms. Annette has been educating students and teachers professionally since 1982.  In her dance career, Annette Alvarez has created and run arts preschool and academic dance programs, choreographed multi-award winning dances for many studios, schools, and venues, all around our great nation.  She is sought out for her master lyrical and jazz classes around the country. She is also a competition judge for some of the most prestigious dance competitions around.
                     <br><br>
                     As a Master level teacher, Ms. Annette’s dance students consistently earn top scores (regionally and nationally), titles, scholarships, and special awards. Her students are invited to New York with scholarships to Broadway Dance Center, been selected to study with the Joffrey Trainee Programs in NYC, danced with the NYC Rockettes, headed up elite college dance teams, opened studios of their own, danced on world cruises and dance professionally in Florida, New York, and California.
                     <br><br>
@@ -86,13 +87,14 @@
         <div class="gradient-splash text-white rounded shadow p-5">
             <h2 class="text-white text-center">Teachers</h2>
             <p class="m-5">
-                <span class="txt-gold" style="font-family: 'Niconne', cursive; font-size: 2em;">Miss Karis Rause, Assistant Director</span>
+                <span class="txt-gold" style="font-family: 'Niconne', cursive; font-size: 2em;">Miss Karis Rause</span>
                 <br>
                 Currently living in Florida, Karis  is a member of Florida Dance Masters and PBT certified.
                 <br>
                 As an instructor for the past 21 years, Karis has learned how to bring out the best in her students through strict, but fun and insightful classes. Outside of the classroom she has choreographed community theater productions and solos for competitions and college auditions.
                 <br>
-                Karis’ love for dance began on Long Island, NY at the age of three.Although she was mostly trained at June Claire Dance Studio, a studio run by former Rockettes Lynda Gache and June Loesche, a studio  known for its focus on classical training and Broadway productions, Karis further supplemented her education at Frank Ohman’s School of Ballet and Eglevsky School of Ballet.  As Karis’ love for dance grew (and as she became old enough to take the train into the city by herself) she diversified her education, venturing into Manhattan where she studied at Broadway Dance Center, Steps on Broadway, Alvin Ailey, Paul Taylor and Barnard College at Columbia University. Karis has performed in annual televised Holiday events, ballets,  community theater, the Tribeca Film Festival and has appeared in such films as “Elf” and “School of Rock.”  She has worked with such notable names as Michael Trusnovec, Loyd Culbreath and Andrea Kron. Miss Karis is excited to start her new role as UDF Assistant Director in our 2021-22 season!
+                Karis’ love for dance began on Long Island, NY at the age of three.Although she was mostly trained at June Claire Dance Studio, a studio run by former Rockettes Lynda Gache and June Loesche, a studio  known for its focus on classical training and Broadway productions, Karis further supplemented her education at Frank Ohman’s School of Ballet and Eglevsky School of Ballet.  As Karis’ love for dance grew (and as she became old enough to take the train into the city by herself) she diversified her education, venturing into Manhattan where she studied at Broadway Dance Center, Steps on Broadway, Alvin Ailey, Paul Taylor and Barnard College at Columbia University. Karis has performed in annual televised Holiday events, ballets,  community theater, the Tribeca Film Festival and has appeared in such films as “Elf” and “School of Rock.”  She has worked with such notable names as Michael Trusnovec, Loyd Culbreath and Andrea Kron.
+{{--                Miss Karis is excited to start her new role as UDF Assistant Director in our 2021-22 season!--}}
                 <br>
                 <br>
                 <span class="txt-gold" style="font-family: 'Niconne', cursive; font-size: 2em;">Miss April Shock</span>
@@ -119,7 +121,7 @@
                 <br>
                 <strong>Julia Criqui Matura</strong>, Brand Ambassador & Merchandising
                 <br>
-                <strong>Doreen Coryell</strong>, UDF Guest Services
+                <strong>Marissa McKenzie</strong>, UDF Guest Services
                 <br>
                 <strong>Angela Short</strong>, UDF Guest Services
             </p>
@@ -127,7 +129,7 @@
         <p class="text-center">
             Are you interested in joining our stellar faculty?
             <br>
-            Please send a cover letter and resume to UDFdirector@gmail.com
+            Please send a cover letter and resume to UDFdance@gmail.com
             <br>
             We are always looking for quality instructors and substitutes!
         </p>

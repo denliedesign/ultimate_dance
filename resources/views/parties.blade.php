@@ -79,7 +79,7 @@
         <ul>
             <li>A $150.00 deposit is required on all parties.  The deposit is non-refundable if the party is not cancelled within 2 weeks prior to the party. Refunds cancelled in a timely manner will have check mailed within 10 days.</li>
             <li>The deposit must be received within 10 days of the party.</li>
-            <li>Cost (for up to 10 children): $250.00, Each additional child: $10.00</li>
+            <li>Cost (for up to 10 children): $300.00, Each additional child: $10.00</li>
             <li>Saturday timeslots: 11:30-1:00, 2:00-3:30 and 4:30-6:00.</li>
             <li>RESERVE YOUR ULTIMATE PARTY NOW!</li>
         </ul>

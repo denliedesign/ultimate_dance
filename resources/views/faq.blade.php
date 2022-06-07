@@ -21,7 +21,7 @@
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">Did you know that there is no certification required in this country to open a dance school?</span>
-                Because of this, Ultimate Dance and Music has established itself as an institution of "excellence in the performing arts" and is recognized nationally as such. We pride ourselves on the training and excellence of our staff.  Annette Alvarez-Gutches is certified by both Dance Masters of America and Florida Dance Masters, the largest and most prestigious dance teacher organizations in the United States. The entire staff teaches from their many years of dance and music experience and performance training. Many are members of professional performing arts organizations as well.
+                Because of this, Ultimate Dance Florida has established itself as an institution of "excellence in the performing arts" and is recognized nationally as such. We pride ourselves on the training and excellence of our staff.  Annette Alvarez is certified by both Dance Masters of America and Florida Dance Masters, the largest and most prestigious dance teacher organizations in the United States. The entire staff teaches from their many years of dance and music experience and performance training. Many are members of professional performing arts organizations as well.
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">PROFESSIONAL JUDGMENT</span>
@@ -33,7 +33,7 @@
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">SPECIAL OPPORTUNITIES</span>
-                Ultimate Dance and Music prides itself on having a "friendly" and "family-like" atmosphere with enough strong dancers & teachers to help each dancer develop into the best that he or she can and wants to be. From time to time, our teachers must make decisions whereby certain students are chosen for solos, competition groups, special parts or special auditions. These decisions are not easily made and are thought out carefully. The parents and teachers must work together to help students understand that not all students can be chosen for all things. When the teachers think that a particular student is ready for a certain endeavor, the parents will be informed. We want our students to be "happy for" and not "jealous of" each other. It is our intention to teach the students to learn from each other and to be motivated by each other. We at Ultimate Dance and Music sincerely try to give as many students as are ready, "special dance experiences". Again we stress - all students are not equally talented, but there is always a place for dancers of all levels!
+                Ultimate Dance Florida prides itself on having a "friendly" and "family-like" atmosphere with enough strong dancers & teachers to help each dancer develop into the best that he or she can and wants to be. From time to time, our teachers must make decisions whereby certain students are chosen for solos, competition groups, special parts or special auditions. These decisions are not easily made and are thought out carefully. The parents and teachers must work together to help students understand that not all students can be chosen for all things. When the teachers think that a particular student is ready for a certain endeavor, the parents will be informed. We want our students to be "happy for" and not "jealous of" each other. It is our intention to teach the students to learn from each other and to be motivated by each other. We at Ultimate Dance Florida sincerely try to give as many students as are ready, "special dance experiences". Again we stress - all students are not equally talented, but there is always a place for dancers of all levels!
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">ABOUT THE POWERHOUSE DANCE TEAM</span>
@@ -50,7 +50,7 @@
         </ol>
         <div class="gradient-splash p-3 my-5 text-center text-white rounded shadow">
             <p class="mb-0 pb-0">
-                REMEMBER, GOOD DANCE TRAINING IS BASED ON TRUST IN THE TEACHER THAT HE/SHE ALWAYS HAS THE STUDENT'S BEST INTEREST AT HEART, AND THAT IS OUR #1 PRIORITY HERE AT ULTIMATE DANCE and MUSIC!
+                REMEMBER, GOOD DANCE TRAINING IS BASED ON TRUST IN THE TEACHER THAT HE/SHE ALWAYS HAS THE STUDENT'S BEST INTEREST AT HEART, AND THAT IS OUR #1 PRIORITY HERE AT ULTIMATE DANCE FLORIDA!
             </p>
         </div>
         <h1 class="text-center my-4">Frequently Asked Questions</h1>
@@ -77,7 +77,7 @@ Do you have a dress code?
                 <span class="txt-burg-light fw-bold text-uppercase">
 Is your lobby air conditioned?
                 </span>
-                We think this is a funny question but we seem to be getting it a lot! Yes, our Suntree lobby is a very cool temperature (and actually pretty cold after 7-ish!) for those waiting. Our Palm Bay/Melbourne lobby is very nicely appointed as well. We recommend you bring a water bottle, to refill, as we have filtered water but do not supply cups!
+                We think this is a funny question but we seem to be getting it a lot! Yes, our lobby is a very cool temperature (and actually pretty cold after 7-ish!) for those waiting. We recommend you bring a water bottle, to refill, as we have filtered water but do not supply cups!
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">
@@ -107,7 +107,7 @@ Can I try a class?
                 <span class="txt-burg-light fw-bold text-uppercase">
 Are your fees published online?
                 </span>
-                Yes. Class tuition is calculated by the amount of hours a student dances and/or tumbles. Music information coming soon.
+                Yes. Class tuition is calculated by the amount of hours a student dances and/or tumbles.
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">

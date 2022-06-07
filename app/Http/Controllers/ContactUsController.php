@@ -34,7 +34,7 @@ class ContactUsController extends Controller
             'birthdate' => 'required',
         ]);
 
-        Mail::to('UDFdirector@gmail.com')->send(new ContactUsMail($data));
+        Mail::to('UDFdance@gmail.com')->send(new ContactUsMail($data));
 
         return redirect('contact')->with('message', 'Thanks for your interest. We\'ll be in touch.');
 
