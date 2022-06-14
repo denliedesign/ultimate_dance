@@ -6,9 +6,9 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-4">About</h1>
+        <h1 class="text-center my-4">Celebrating 30 Years of Arts Education</h1>
         <p>
-            ULTIMATE DANCE FLORIDA began in the hustle and bustle of South Florida.  Founded in 1993 by Annette Alvarez, ULTIMATE DANCE FLORIDA opened its doors with professional instructors in a beautiful location in South Florida. After 10 successful years, Ms. Annette and her husband Brad decided it was time to move to a smaller, family oriented  town and chose the Space Coast as the location. Upon their move, ULTIMATE DANCE in Melbourne was opened to offer students in east Central Florida the opportunity to experience dance training on a new level, with cutting edge choreography, professional level faculty and high expectations.
+            ULTIMATE DANCE FLORIDA began in the hustle and bustle of South Florida.  Founded in 1993 by Annette Alvarez, ULTIMATE DANCE FLORIDA opened its doors with professional instructors in a beautiful location in South Florida. After 10 successful years, Ms. Annette decided it was time to move to a smaller, family oriented  town and chose the Space Coast as the location. Upon their move, ULTIMATE DANCE in Melbourne was opened to offer students in east Central Florida the opportunity to experience dance training on a new level, with cutting edge choreography, professional level faculty and high expectations.
 {{--            In the summer of 2011, we were excited to open our second location,  ULTIMATE DANCE in Viera, the premiere dance studio within the Viera community.--}}
             <br><br>
             ULTIMATE DANCE FLORIDA is proud to be recognized as one of the TOP 50 STUDIOS in the SE United States by The Federation of Dance Competitions.
@@ -25,10 +25,10 @@
             <br><br>
             However, the ULTIMATE DANCE FLORIDA commitment runs deeper than winning awards. Students are encouraged and positively guided through a caring and dedicated faculty to be their best. The focus is on providing an excellent dance program in a safe, family-oriented environment conducive to learning- for the future of Brevard’s dancers.
         </p>
-        <div class="row row-cols-3">
-            <img src="/images/about-udf.jpg" alt="dancers in costume holding dance sign" class="img-fluid">
-            <img src="/images/about-udf-3.jpg" alt="dancers in costume posing" class="img-fluid">
-            <img src="/images/about-udf-2.jpg" alt="dancers in costume on stage" class="img-fluid">
+        <div class="row">
+            <div class="col-sm mt-4"><img src="/images/about-udf.jpg" alt="dancers in costume holding dance sign" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: 0 0;"></div>
+            <div class="col-sm mt-4"><img src="/images/about-0.jpeg" alt="dancers in costume posing" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: 0 40%;"></div>
+            <div class="col-sm mt-4"><img src="/images/about-udf-2.jpg" alt="dancers in costume on stage" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: 0 0;"></div>
         </div>
         <h1 class="text-center my-4">Faculty</h1>
         <p class="text-center">
