@@ -27,6 +27,9 @@ class ContactUsController extends Controller
     public function store(Request $request)
     {
         $data = request()->validate([
+            'contact_me_by_fax_only' => 'max:0',
+            'my_name' => 'max:0',
+            'my_title' => 'max:0',
             'parentName' => 'required',
             'studentName' => 'required',
             'phone' => 'required',
@@ -35,6 +38,7 @@ class ContactUsController extends Controller
         ]);
 
         Mail::to('UDFdance@gmail.com')->send(new ContactUsMail($data));
+//        Mail::to('customdenlie@gmail.com')->send(new ContactUsMail($data));
 
         return redirect('contact')->with('message', 'Thanks for your interest. We\'ll be in touch.');
 

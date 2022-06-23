@@ -10,6 +10,9 @@
             <small class="text-muted text-center">Limited availability. For a short time only.</small>
             <div class="modal-body text-left mx-2">
                 <form action="{{ route('contact.store') }}" method="POST" class="text-dark">
+                    <input type="hidden" name="my_name" id="my_name" value="">
+                    <input type="hidden" name="my_title" id="my_title" value="">
+                    <input type="checkbox" name="contact_me_by_fax_only" id="contact_me_by_fax_only" value="1" tabindex="-1" autocomplete="off" class="d-none">
                     <div class="form-group row">
                         <label class="col-sm-4 col-form-label" for="parentName">Parent Name</label>
                         <div class="col-sm-8">
