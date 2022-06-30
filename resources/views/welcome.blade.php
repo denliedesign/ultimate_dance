@@ -50,35 +50,35 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
                     <img src="/images/classes-2-3.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 0 40%; width: 100%;">
-                    <a href="/classes#class-1-2" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 2-3</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 2-3</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/dance-classes.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 0 20%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Ages 4-5</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Ages 4-5</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/classes-5-6.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 50% 20%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family mt-2" style="width: 100%;">Ages 5-6</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family mt-2" style="width: 100%;">Ages 5-6</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/classes-7-9.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 25% 20%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 7-9</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 7-9</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/classes-9-11.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 0 33%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Ages 9-11</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Ages 9-11</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/classes-12-14.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 0 20%; width: 100%;">
-                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family mt-2" style="width: 100%;">Ages 12-14</div></a>
+                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family mt-2" style="width: 100%;">Ages 12-14</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/classes-15.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 0 20%; width: 100%;">
-                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 15+</div></a>
+                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 15+</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/classes-powerhouse-team.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 249.89px; object-fit: cover; object-position: 0 20%; width: 100%;">
-                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Powerhouse Team</div></a>
+                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Powerhouse Team</div></a>
                 </div>
             </div>
         </div>

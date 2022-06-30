@@ -362,6 +362,13 @@ body {
     font-weight: bold;
 }
 
+.norm {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: normal;
+}
+
 /*
 LOGO LIGHT BURGUNDY
 #933B4F
