@@ -14,14 +14,14 @@
                    <p>
                        <strong>Be a part of the EXCITEMENT!</strong> <br>
                        Our 2022-2023 TEAM AUDITIONS ARE: <br>
-                       Saturday, June 18 <small><em>*prospective new members</em></small> <br>
+                       Saturday, August 6 <small><em>*prospective new members</em></small> <br>
                    </p>
                     <ul>
-                        <li>Minis/Jrs (ages K5-11) 9:00am</li>
-                        <li>Teens/Seniors (ages 12-18) 10:00am</li>
+                        <li>Minis (ages 5-11) 3:00-3:30pm</li>
+                        <li>Teens/Seniors (ages 12-18) 3:30pm</li>
                     </ul>
                     <p>
-                       <strong>**Parent and Dance Meeting immediately following auditions @ 11:00am. <br>
+                       <strong>**Parent Meeting at 3:00pm<br>
                        </strong>
                        <br>
                        <em>
