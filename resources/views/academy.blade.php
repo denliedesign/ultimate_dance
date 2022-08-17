@@ -108,19 +108,20 @@
                         </tr>
                         <tr>
                             <td>6:15-7:15</td>
-                            <td>Musical Theater 12+</td>
-                            <td>Hip Hop (ages 9-11)</td>
+                            <td>Musical Theater (ages 12+)</td>
+                            <td>Hip Hop (ages 9+)</td>
                         </tr>
                         <tr>
                             <td>7:15-8:15</td>
-                            <td>Tap Int (ages 9+)</td>
-                            <td>Hip Hop (ages 12+)</td>
-                        </tr>
-                        <tr>
-                            <td>8:15-9:15</td>
-                            <td>Tap Adv (ages 12+)</td>
+                            <td>Tap Int/Adv (ages 12+)</td>
                             <td></td>
+{{--                            <td>Hip Hop (ages 12+)</td>--}}
                         </tr>
+{{--                        <tr>--}}
+{{--                            <td>8:15-9:15</td>--}}
+{{--                            <td>Tap Adv (ages 12+)</td>--}}
+{{--                            <td></td>--}}
+{{--                        </tr>--}}
                         </tbody>
                     </table>
                 </div>
@@ -136,9 +137,11 @@
                         <tbody>
                         <tr>
                             <td>4:30-5:15</td>
-                            <td></td>
-                            <td>4:45-5:30</td>
                             <td>Tippy Toes (ages 2-3)</td>
+                            <td></td>
+                            <td></td>
+{{--                            <td>4:45-5:30</td>--}}
+{{--                            <td></td>--}}
                         </tr>
                         <tr>
                             <td>5:15-6:15</td>
@@ -272,7 +275,7 @@
                         </tr>
                         <tr>
                             <td>Tuesday</td>
-                            <td>4:15-5:00</td>
+                            <td>4:30-5:15</td>
                             <td>Tippy Toes & Tuxedos (ages 2-3)</td>
                         </tr>
                         <tr>
@@ -376,7 +379,7 @@
                         <tbody>
                         <tr><td>Monday</td><td>4:15-5:15</td><td>Musical Theater (K5-11)</td></tr>
                         <tr><td>Monday</td><td>5:15-6:15</td><td>Tap Beg/Int (ages 9+)</td></tr>
-                        <tr><td>Monday</td><td>6:15-7:15</td><td>Hip Hop (ages 9-11)</td></tr>
+                        <tr><td>Monday</td><td>6:15-7:15</td><td>Hip Hop (ages 9+)</td></tr>
                         <tr><td>Monday</td><td>7:15-8:15</td><td>Tap Int/Adv</td></tr>
                         <tr><td>Tuesday</td><td>5:15-6:00</td><td>Prepointe (must take ballet and Top Gun)</td></tr>
                         <tr><td>Tuesday</td><td>5:15-6:15</td><td>Ballet Beg/Int (ages 9+)</td></tr>
@@ -395,9 +398,9 @@
                     <table class="table text-white">
                         <tbody>
                         <tr><td>Monday</td><td>6:15-7:15</td><td>Musical Theater (ages 12+)</td></tr>
-                        <tr><td>Monday</td><td>7:15-8:15</td><td>Hip Hop (ages 12+)</td></tr>
-                        <tr><td>Monday</td><td>7:15-8:15</td><td>Tap Intermediate (ages 9+)</td></tr>
-                        <tr><td>Monday</td><td>8:15-9:15</td><td>Tap Advanced (ages 12+)</td></tr>
+{{--                        <tr><td>Monday</td><td>7:15-8:15</td><td>Hip Hop (ages 12+)</td></tr>--}}
+                        <tr><td>Monday</td><td>7:15-8:15</td><td>Tap Int/Adv (ages 12+)</td></tr>
+{{--                        <tr><td>Monday</td><td>8:15-9:15</td><td>Tap Advanced (ages 12+)</td></tr>--}}
                         <tr><td>Tuesday</td><td>5:15-6:15</td><td>Ballet Beg/Int (ages 9+)</td></tr>
                         <tr><td>Tuesday</td><td>5:15-6:00</td><td>Prepointe (must take ballet and Top Gun)</td></tr>
                         <tr><td>Tuesday</td><td>6:15-7:15</td><td>Lyrical (ages 12+, must take ballet)</td></tr>
