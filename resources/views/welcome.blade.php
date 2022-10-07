@@ -193,7 +193,7 @@
                         <img src="/images/ReadersChoice2019.png" alt="readers choice 2019" class="img-fluid">
                         <img src="/images/ReadersChoice2020.png" alt="readers choice 2020" class="img-fluid">
                         <img src="/images/ReadersChoice2021.png" alt="readers choice 2021" class="img-fluid">
-                        <img src="/images/ReadersChoice2022.png" alt="readers choice 2022" class="img-fluid">
+                        <img src="/images/ReadersChoice2022b.PNG" alt="readers choice 2022" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-sm" style="position: relative; min-height: 85vh; height: 100%;">
