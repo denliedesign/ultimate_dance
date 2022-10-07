@@ -189,10 +189,11 @@
             <div class="row py-5">
                 <div class="col-sm">
                     <h2 class="text-center">Awards</h2>
-                    <div class="row row-cols-3">
+                    <div class="row row-cols-4">
                         <img src="/images/ReadersChoice2019.png" alt="readers choice 2019" class="img-fluid">
                         <img src="/images/ReadersChoice2020.png" alt="readers choice 2020" class="img-fluid">
                         <img src="/images/ReadersChoice2021.png" alt="readers choice 2021" class="img-fluid">
+                        <img src="/images/ReadersChoice2022.png" alt="readers choice 2022" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-sm" style="position: relative; min-height: 85vh; height: 100%;">
