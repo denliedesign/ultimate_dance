@@ -107,9 +107,9 @@
                 A long-time student and now UDF alumni, Alyssa Harrison, has been with UDF for 14 years. She has been well trained and involved in our studio through her time as a student. She was a part of the Powerhouse Team for over 12 years, bringing her experience in both the competition world and ability to be involved in their many community events and fundraisers. She has been awarded many achievements while a competition dancer. These include multiple judges awards, high scores, and scholarships throughout the competitions and conventions she has attended alongside the Powerhouse Team. She plans to continue dancing and further her experiences and knowledge, as she goes through her college years. Alyssa is certified by test to teach dance through Florida Dance Masters. She is grateful to have been giving all these experiences and opportunities and hopes to share her knowledge with the future generation of UDF dancers to come through our studio’s doors.
                 <br>
                 <br>
-                <span class="txt-gold" style="font-family: 'Niconne', cursive; font-size: 2em;">Miss Kaitlyn Vasquez</span>
+                <span class="txt-gold" style="font-family: 'Niconne', cursive; font-size: 2em;">Miss Marissa McKenzie</span>
                 <br>
-                Kaitlyn is an alumni of UDF! Kaitlyn was a member of the UDF Powerhouse Dance Team for many years and contributed to the teams success! Kaitlyn is currently teaching hip hop and subbing for teachers who are out. She is a tremendous addition to our staff and plans to continue dancing for many years!
+                Marissa is an alumni of UDF! Marissa was a member of the UDF Powerhouse Dance Team for many years and contributed to the teams success! Marissa is currently teaching children's classes and subbing for teachers who are out. She is a tremendous addition to our staff and plans to continue dancing for many years!
                 <br>
                 <br>
 {{--                <span class="txt-gold" style="font-family: 'Niconne', cursive; font-size: 2em;">Miss Kristine Silvernail</span>--}}

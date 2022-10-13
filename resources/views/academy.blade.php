@@ -99,7 +99,7 @@
                         <tr>
                             <td>4:15-5:15</td>
                             <td>Musical Theater K5-11</td>
-                            <td>Hippity Hop/Tumble Tots (ages 3-5)</td>
+                            <td>Hippity Hop & Tumble Tots (ages 3-PK5)</td>
                         </tr>
                         <tr>
                             <td>5:15-6:15</td>
@@ -137,7 +137,7 @@
                         <tbody>
                         <tr>
                             <td>4:30-5:15</td>
-                            <td>Tippy Toes (ages 2-3)</td>
+                            <td>Tippy Toes & Tuxedos (ages 2-PK5)</td>
                             <td></td>
                             <td></td>
 {{--                            <td>4:45-5:30</td>--}}
@@ -181,7 +181,7 @@
                         <tbody>
                         <tr>
                             <td>4:15-5:15</td>
-                            <td>Acro Beg/Int</td>
+                            <td>Acro 1 (Beg)</td>
                             <td></td>
                         </tr>
                         <tr>
@@ -192,7 +192,7 @@
                         <tr>
                             <td>6:15-7:15</td>
                             <td>Lyrical (ages 7-8)</td>
-                            <td>Acro Int/Adv</td>
+                            <td>Acro 3 (Adv)</td>
                         </tr>
                         <tr>
                             <td>7:15-8:15</td>
@@ -217,22 +217,22 @@
                         </thead>
                         <tbody>
                         <tr>
-                            <td>4:30-5:15</td>
+                            <td>4:30-5:30</td>
                             <td></td>
-                            <td>Creative Dancers (ages 3-5)</td>
+                            <td>Acro 2 (Int)</td>
                         </tr>
                         <tr>
-                            <td>5:15-6:15</td>
+                            <td>5:30-6:30</td>
                             <td>T/J Combo (ages K5-6)</td>
                             <td>Jazz (ages 7-8)</td>
                         </tr>
                         <tr>
-                            <td>6:15-7:15</td>
+                            <td>6:30-7:30</td>
                             <td>Tap (ages 7-8)</td>
                             <td>B/L Combo (ages K5-6)</td>
                         </tr>
                         <tr>
-                            <td>7:15-8:00</td>
+                            <td>7:30-8:15</td>
                             <td>Leaps & Turns (ages K5-8)</td>
                             <td></td>
                         </tr>
@@ -271,18 +271,18 @@
                         <tr>
                             <td>Monday</td>
                             <td>4:30-5:15</td>
-                            <td>Hippity Hop/Tumble Tots (ages 3-5)</td>
+                            <td>Hippity Hop & Tumble Tots (ages 3-PK5)</td>
                         </tr>
                         <tr>
                             <td>Tuesday</td>
                             <td>4:30-5:15</td>
-                            <td>Tippy Toes & Tuxedos (ages 2-3)</td>
+                            <td>Tippy Toes & Tuxedos (ages 2-PK5)</td>
                         </tr>
-                        <tr>
-                            <td>Thursday</td>
-                            <td>4:30-5:15</td>
-                            <td>Creative Dance (ages 3-5)</td>
-                        </tr>
+{{--                        <tr>--}}
+{{--                            <td>Thursday</td>--}}
+{{--                            <td>4:30-5:15</td>--}}
+{{--                            <td>Creative Dance (ages 3-5)</td>--}}
+{{--                        </tr>--}}
                         </tbody>
                     </table>
                 </div>
@@ -304,21 +304,21 @@
                         <tr>
                             <td>Wednesday</td>
                             <td>4:15-5:15</td>
-                            <td>Acro Beg/Int</td>
+                            <td>Acro 1 (Beg)</td>
                         </tr>
                         <tr>
                             <td>Thursday</td>
-                            <td>7:15-8:00</td>
+                            <td>7:30-8:15</td>
                             <td>Leaps & Turns (must take ballet/lyrical combo)</td>
                         </tr>
                         <tr>
                             <td>Thursday</td>
-                            <td>5:15-6:15</td>
+                            <td>5:30-6:30</td>
                             <td>T/J Combo (ages K5-6)</td>
                         </tr>
                         <tr>
                             <td>Thursday</td>
-                            <td>6:15-7:15</td>
+                            <td>6:30-7:30</td>
                             <td>B/L Combo (ages K5-6)</td>
                         </tr>
                         </tbody>
@@ -342,7 +342,7 @@
                         <tr>
                             <td>Wednesday</td>
                             <td>4:15-5:15</td>
-                            <td>Acro Beg/Int</td>
+                            <td>Acro 1 (Beg)</td>
                         </tr>
                         <tr>
                             <td>Wednesday</td>
@@ -356,17 +356,22 @@
                         </tr>
                         <tr>
                             <td>Thursday</td>
-                            <td>5:15-6:15</td>
+                            <td>4:30-5:30</td>
+                            <td>Acro 2 (Int)</td>
+                        </tr>
+                        <tr>
+                            <td>Thursday</td>
+                            <td>5:30-6:30</td>
                             <td>Jazz (ages 7-8)</td>
                         </tr>
                         <tr>
                             <td>Thursday</td>
-                            <td>6:15-7:15</td>
+                            <td>6:30-7:30</td>
                             <td>Tap (ages 7-8)</td>
                         </tr>
                         <tr>
                             <td>Thursday</td>
-                            <td>7:15-8:00</td>
+                            <td>7:30-8:15</td>
                             <td>Leaps & Turns (must take ballet)</td>
                         </tr>
                         </tbody>
@@ -386,9 +391,10 @@
                         <tr><td>Tuesday</td><td>6:15-7:15</td><td>Ballet Adv (ages 9-11)</td></tr>
                         <tr><td>Tuesday</td><td>7:15-8:15</td><td>Lyrical (ages 9-11, must take ballet)</td></tr>
                         <tr><td>Tuesday</td><td>8:15-9:00</td><td>Top Gun (ages 9-11, must take ballet)</td></tr>
-                        <tr><td>Wednesday</td><td>6:15-7:15</td><td>Acro Int/Adv (*skills tested, must take a tech class)</td></tr>
+                        <tr><td>Wednesday</td><td>6:15-7:15</td><td>Acro 3 (Adv) (*skills tested, must take a tech class)</td></tr>
                         <tr><td>Wednesday</td><td>7:15-8:15</td><td>Jazz (ages 9-11)</td></tr>
                         <tr><td>Wednesday</td><td>8:15-9:15</td><td>Leaps & Turns (ages 9-11, must take ballet)</td></tr>
+                        <tr><td>Thursday</td><td>4:30-5:30</td><td>Acro 2 (Int) (*skills tested, must take a tech class)</td></tr>
                         </tbody>
                     </table>
                 </div>
@@ -407,9 +413,10 @@
                         <tr><td>Tuesday</td><td>7:15-8:45</td><td>Ballet Advanced (ages 12+)</td></tr>
                         <tr><td>Tuesday</td><td>8:45-9:30</td><td>Pointe *Invite Only, must take ballet, Top Gun, and Leaps & Turns</td></tr>
                         <tr><td>Wednesday</td><td>5:15-6:15</td><td>Top Gun (ages 12+, must take ballet)</td></tr>
-                        <tr><td>Wednesday</td><td>6:15-7:15</td><td>Acro Int/Adv *skill tested, must take a tech class</td></tr>
+                        <tr><td>Wednesday</td><td>6:15-7:15</td><td>Acro 3 (Adv) *skill tested, must take a tech class</td></tr>
                         <tr><td>Wednesday</td><td>7:15-8:15</td><td>Leaps & Turns (ages 12+, must take ballet)</td></tr>
                         <tr><td>Wednesday</td><td>8:15-9:15</td><td>Jazz (ages 12+)</td></tr>
+                        <tr><td>Thursday</td><td>4:30-5:30</td><td>Acro 2 (Int) (*skills tested, must take a tech class)</td></tr>
                         </tbody>
                     </table>
                 </div>

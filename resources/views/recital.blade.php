@@ -8,7 +8,8 @@
     <div class="container">
         <h1 class="text-center my-4">Recital</h1>
         <p class="text-center">
-            Join Us For Our 30th Anniversary Celebration Spring 2023
+            Our "UDF 30th Celebration of Dance" will take place the weekend of May 20-21, 2023
+            <br>Stay tuned for show updates!
         </p>
     </div>
 
