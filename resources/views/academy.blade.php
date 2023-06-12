@@ -25,111 +25,111 @@
                 <x-room room="Room 1" time="6:15-7:15" name="Ballet (adv)" age="Ages 9-11" staff="Miss Sam"/>
                 <x-room room="Room 1" time="7:15-8:30" name="Ballet (adv)" age="Ages 12+" staff="Miss Sam"/>
                 <x-room room="Room 1" time="8:30-9:15" name="Pointe" age="Invite Only" staff="Miss Sam"/>
-                <x-room room="Room 2" time="4:30-5:30" name="Acro Beg/Int" age="All Ages" staff="Miss April"/>
+                <x-room room="Room 2" time="4:15-5:15" name="Acro Beg/Int" age="All Ages" staff="Miss April"/>
                 <x-room room="Room 2" time="5:30-6:15" name="Hippity Hop/Tumble Tots" age="Ages 3-5" staff="Miss April"/>
                 <x-room room="Room 2" time="6:15-7:15" name="Lyrical" age="Ages 12+" staff="Miss April"/>
                 <x-room room="Room 2" time="7:15-8:15" name="Lyrical" age="Ages 9-11" staff="Miss April"/>
                 <x-room room="Room 2" time="8:30-9:15" name="Pre-Pointe" age="Ages 9+" staff="Miss April"/>
             </table>
-            <h2>Wednesday 3:45pm-9:30pm</h2>
+            <h2>Wednesday 3:45pm-9:00pm</h2>
             <table class="table">
                 <x-room room="Room 1" time="4:30-5:30" name="Musical Theater" age="Ages K5-11" staff="Miss Karis"/>
-                <x-room room="Room 1" time="5:30-6:30" name="Musical Theater" age="Ages 12+" staff="Miss Karis"/>
+                <x-room room="Room 1" time="5:30-6:30" name="Tap Adv" age="Ages 12+" staff="Miss Karis"/>
                 <x-room room="Room 1" time="6:30-7:30" name="Tap" age="Ages 7-8" staff="Miss Karis"/>
                 <x-room room="Room 1" time="7:30-8:30" name="Tap 1 & 2" age="Ages 9+" staff="Miss Karis"/>
-                <x-room room="Room 1" time="8:30-9:30" name="Tap Adv" age="Ages 12+" staff="Miss Karis"/>
+{{--                <x-room room="Room 1" time="8:30-9:30" name="Tap Adv" age="Ages 12+" staff="Miss Karis"/>--}}
                 <x-room room="Room 2" time="4:45-5:30" name="Creative Dancers" age="Ages 3-5" staff="Miss April"/>
-                <x-room room="Room 2" time="5:30-6:30" name="Hip Hop" age="Ages 9-11" staff="Miss April"/>
+                <x-room room="Room 2" time="5:30-6:30" name="Hip Hop" age="Ages 6-11" staff="Miss April"/>
                 <x-room room="Room 2" time="6:30-7:30" name="B/L Combo" age="Ages K5-6" staff="Miss April"/>
                 <x-room room="Room 2" time="7:30-8:30" name="Jazz" age="Ages 7-8" staff="Miss April"/>
             </table>
             <h2>Thursday 4:00pm-9:00pm</h2>
             <table class="table">
-                <x-room room="Room 1" time="4:00-5:00" name="Leaps & Turns" age="Ages 12+" staff="Miss Karis"/>
-                <x-room room="Room 1" time="5:00-6:00" name="T/J Combo" age="Ages K5-6" staff="Miss Karis"/>
+                <x-room room="Room 1" time="4:00-5:00" name="Leaps & Turns" age="Ages 11+" staff="Miss Karis"/>
+                <x-room room="Room 1" time="5:00-6:00" name="Jazz" age="Ages 12+" staff="Miss Karis"/>
                 <x-room room="Room 1" time="6:00-7:00" name="Lyrical" age="Ages 7-8" staff="Miss Karis"/>
-                <x-room room="Room 1" time="7:00-8:00" name="Hip Hop" age="Ages K5-8" staff="Miss Karis"/>
-                <x-room room="Room 1" time="8:00-9:00" name="Jazz" age="Ages 12+" staff="Miss Karis"/>
-                <x-room room="Room 2" time="4:00-5:00" name="Leaps & Turns" age="Ages K5-11" staff="Miss Annette"/>
+                <x-room room="Room 1" time="7:00-8:00" name="Jazz" age="Ages 9-11" staff="Miss Karis"/>
+{{--                <x-room room="Room 1" time="8:00-9:00" name="Jazz" age="Ages 12+" staff="Miss Karis"/>--}}
+                <x-room room="Room 2" time="4:00-5:00" name="Leaps & Turns" age="Ages K5-10" staff="Miss Annette"/>
                 <x-room room="Room 2" time="5:00-6:00" name="Ballet" age="Ages 7-8" staff="Miss Annette"/>
                 <x-room room="Room 2" time="6:00-7:00" name="Acro Int/Adv *invite only" age="All Ages" staff="Miss Annette"/>
-                <x-room room="Room 2" time="7:00-8:00" name="Jazz" age="Ages 9-11" staff="Miss Annette"/>
+{{--                <x-room room="Room 2" time="7:00-8:00" name="Jazz" age="Ages 9-11" staff="Miss Annette"/>--}}
             </table>
             <h2>Friday 8:45am-3:00pm</h2>
             <table class="table">
                 <x-room room="Room 1" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10" staff="Miss Angela"/>
                 <x-room room="Room 1" time="9:45am-10:30am" name="Top Gun" age="Ages 11+" staff="Miss Angela"/>
-                <x-room room="Room 2" time="9:00am-9:45am" name="Ballet Tech" age="Ages 11+" staff="Miss Annette"/>
-                <x-room room="Room 2" time="9:45am-10:30am" name="Ballet Tech" age="Ages K5-10" staff="Miss Annette"/>
+{{--                <x-room room="Room 2" time="9:00am-9:45am" name="Ballet Tech" age="Ages 11+" staff="Miss Annette"/>--}}
+{{--                <x-room room="Room 2" time="9:45am-10:30am" name="Ballet Tech" age="Ages K5-10" staff="Miss Annette"/>--}}
             </table>
         </div>
 
-        <div class="gradient-splash my-5 rounded shadow p-3 text-white">
-            <h2>Ages 3-PreK5</h2>
-            <table class="table text-white">
-                <x-dance day="Tuesday" time="5:30pm-6:15pm" name="Hippity Hop/Tumble Tots" age="Ages 3-5"/>
-                <x-dance day="Wednesday" time="4:45pm-5:30pm" name="Creative Dance" age="Ages 3-5"/>
-            </table>
-            <h2>Ages K5-6</h2>
-            <table class="table text-white">
-                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>
-                <x-dance day="Wednesday" time="4:30pm-5:30pm" name="Musical Theater" age="Ages K5-11"/>
-                <x-dance day="Wednesday" time="5:30pm-6:30pm" name="B/L Combo" age="Ages K5-6"/>
-                <x-dance day="Thursday" time="4:00pm-5:00pm" name="Leaps & Turns" age="Ages K5-11"/>
-                <x-dance day="Thursday" time="5:00pm-6:00pm" name="T/J Combo" age="Ages K5-6"/>
-                <x-dance day="Thursday" time="7:00pm-8:00pm" name="Hip Hop" age="Ages K5-8"/>
-                <x-dance day="Friday" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10"/>
-                <x-dance day="Friday" time="9:45am-10:30am" name="Ballet Tech" age="K5-10"/>
-            </table>
-            <h2>Ages 7-8</h2>
-            <table class="table text-white">
-                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>
-                <x-dance day="Wednesday" time="4:30pm-5:30pm" name="Musical Theater" age="Ages K5-11"/>
-                <x-dance day="Wednesday" time="6:30pm-7:30pm" name="Tap" age="Ages 7-8"/>
-                <x-dance day="Wednesday" time="7:30pm-8:30pm" name="Jazz" age="Ages 7-8"/>
-                <x-dance day="Thursday" time="4:15pm-5:00pm" name="Leaps & Turns" age="Ages K5-10"/>
-                <x-dance day="Thursday" time="5:00pm-6:00pm" name="Ballet" age="Ages 7-8"/>
-                <x-dance day="Thursday" time="6:00pm-7:00pm" name="Lyrical" age="Ages 7-8"/>
-                <x-dance day="Thursday" time="7:00pm-8:00pm" name="Hip Hop" age="Ages K5-8"/>
-                <x-dance day="Friday" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10"/>
-                <x-dance day="Friday" time="9:45am-10:30am" name="Ballet Tech" age="Ages K5-10"/>
-            </table>
-            <h2>Ages 9-11</h2>
-            <table class="table text-white">
-                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>
-                <x-dance day="Tuesday" time="5:15pm-6:15pm" name="Ballet (beg/int)" age="Ages 9+"/>
-                <x-dance day="Tuesday" time="6:15pm-7:15pm" name="Ballet (adv)" age="Ages 9-11"/>
-                <x-dance day="Tuesday" time="7:15pm-8:15pm" name="Lyrical" age="Ages 9-11"/>
-                <x-dance day="Tuesday" time="8:15pm-9:00pm" name="Pre-Pointe" age="Ages 9+"/>
-                <x-dance day="Wednesday" time="4:30pm-5:30pm" name="Musical Theater" age="Ages K5-11"/>
-                <x-dance day="Wednesday" time="6:30pm-7:30pm" name="Hip Hop" age="Ages 9-11"/>
-                <x-dance day="Wednesday" time="7:30pm-8:30pm" name="Tap 1 & 2" age="Ages 9+"/>
-                <x-dance day="Thursday" time="4:15pm-5:00pm" name="Leaps & Turns" age="Ages K5-11"/>
-                <x-dance day="Thursday" time="6:00pm-7:00pm" name="Acro Int/Adv" age="Ages 9+"/>
-                <x-dance day="Thursday" time="7:00pm-8:00pm" name="Jazz" age="Ages 9-11"/>
-                <x-dance day="Friday" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10"/>
-                <x-dance day="Friday" time="9:45am-10:30am" name="Ballet Tech" age="Ages K5-10"/>
-                <x-dance day="Friday" time="9:00am-9:45am" name="Ballet Tech" age="Ages 11+"/>
-                <x-dance day="Friday" time="9:45am-10:30am" name="Top Gun" age="Ages 11+"/>
-            </table>
-            <h2>Ages 12+</h2>
-            <table class="table text-white">
-                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>
-                <x-dance day="Tuesday" time="5:15pm-6:15pm" name="Ballet (beg/int)" age="Ages 9+"/>
-                <x-dance day="Tuesday" time="6:15pm-7:15pm" name="Lyrical" age="Ages 12+"/>
-                <x-dance day="Tuesday" time="7:15pm-8:30pm" name="Ballet (adv)" age="Ages 12+"/>
-                <x-dance day="Tuesday" time="8:30pm-9:15pm" name="Pre-Pointe" age="Ages 9+"/>
-                <x-dance day="Tuesday" time="8:30pm-9:15pm" name="Pointe" age="Invite only"/>
-                <x-dance day="Wednesday" time="5:30pm-6:30pm" name="Musical Theater" age="Ages 12+"/>
-                <x-dance day="Wednesday" time="6:30pm-7:30pm" name="Tap 1 & 2" age="Ages 9+"/>
-                <x-dance day="Wednesday" time="7:30pm-8:30pm" name="Tap Adv" age="Ages 12+"/>
-                <x-dance day="Thursday" time="4:00pm-5:00pm" name="Leaps & Turns" age="Ages 12+"/>
-                <x-dance day="Thursday" time="6:00pm-7:00pm" name="Acro Int/Adv" age="Invite only"/>
-                <x-dance day="Thursday" time="8:00pm-9:00pm" name="Jazz" age="Ages 12+"/>
-                <x-dance day="Friday" time="9:00am-9:45am" name="Ballet Tech" age="Ages 11+"/>
-                <x-dance day="Friday" time="9:45am-10:30am" name="Top Gun" age="Ages 11+"/>
-            </table>
-        </div>
+{{--        <div class="gradient-splash my-5 rounded shadow p-3 text-white">--}}
+{{--            <h2>Ages 3-PreK5</h2>--}}
+{{--            <table class="table text-white">--}}
+{{--                <x-dance day="Tuesday" time="5:30pm-6:15pm" name="Hippity Hop/Tumble Tots" age="Ages 3-5"/>--}}
+{{--                <x-dance day="Wednesday" time="4:45pm-5:30pm" name="Creative Dance" age="Ages 3-5"/>--}}
+{{--            </table>--}}
+{{--            <h2>Ages K5-6</h2>--}}
+{{--            <table class="table text-white">--}}
+{{--                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>--}}
+{{--                <x-dance day="Wednesday" time="4:30pm-5:30pm" name="Musical Theater" age="Ages K5-11"/>--}}
+{{--                <x-dance day="Wednesday" time="5:30pm-6:30pm" name="B/L Combo" age="Ages K5-6"/>--}}
+{{--                <x-dance day="Thursday" time="4:00pm-5:00pm" name="Leaps & Turns" age="Ages K5-11"/>--}}
+{{--                <x-dance day="Thursday" time="5:00pm-6:00pm" name="T/J Combo" age="Ages K5-6"/>--}}
+{{--                <x-dance day="Thursday" time="7:00pm-8:00pm" name="Hip Hop" age="Ages K5-8"/>--}}
+{{--                <x-dance day="Friday" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10"/>--}}
+{{--                <x-dance day="Friday" time="9:45am-10:30am" name="Ballet Tech" age="K5-10"/>--}}
+{{--            </table>--}}
+{{--            <h2>Ages 7-8</h2>--}}
+{{--            <table class="table text-white">--}}
+{{--                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>--}}
+{{--                <x-dance day="Wednesday" time="4:30pm-5:30pm" name="Musical Theater" age="Ages K5-11"/>--}}
+{{--                <x-dance day="Wednesday" time="6:30pm-7:30pm" name="Tap" age="Ages 7-8"/>--}}
+{{--                <x-dance day="Wednesday" time="7:30pm-8:30pm" name="Jazz" age="Ages 7-8"/>--}}
+{{--                <x-dance day="Thursday" time="4:15pm-5:00pm" name="Leaps & Turns" age="Ages K5-10"/>--}}
+{{--                <x-dance day="Thursday" time="5:00pm-6:00pm" name="Ballet" age="Ages 7-8"/>--}}
+{{--                <x-dance day="Thursday" time="6:00pm-7:00pm" name="Lyrical" age="Ages 7-8"/>--}}
+{{--                <x-dance day="Thursday" time="7:00pm-8:00pm" name="Hip Hop" age="Ages K5-8"/>--}}
+{{--                <x-dance day="Friday" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10"/>--}}
+{{--                <x-dance day="Friday" time="9:45am-10:30am" name="Ballet Tech" age="Ages K5-10"/>--}}
+{{--            </table>--}}
+{{--            <h2>Ages 9-11</h2>--}}
+{{--            <table class="table text-white">--}}
+{{--                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>--}}
+{{--                <x-dance day="Tuesday" time="5:15pm-6:15pm" name="Ballet (beg/int)" age="Ages 9+"/>--}}
+{{--                <x-dance day="Tuesday" time="6:15pm-7:15pm" name="Ballet (adv)" age="Ages 9-11"/>--}}
+{{--                <x-dance day="Tuesday" time="7:15pm-8:15pm" name="Lyrical" age="Ages 9-11"/>--}}
+{{--                <x-dance day="Tuesday" time="8:15pm-9:00pm" name="Pre-Pointe" age="Ages 9+"/>--}}
+{{--                <x-dance day="Wednesday" time="4:30pm-5:30pm" name="Musical Theater" age="Ages K5-11"/>--}}
+{{--                <x-dance day="Wednesday" time="6:30pm-7:30pm" name="Hip Hop" age="Ages 9-11"/>--}}
+{{--                <x-dance day="Wednesday" time="7:30pm-8:30pm" name="Tap 1 & 2" age="Ages 9+"/>--}}
+{{--                <x-dance day="Thursday" time="4:15pm-5:00pm" name="Leaps & Turns" age="Ages K5-11"/>--}}
+{{--                <x-dance day="Thursday" time="6:00pm-7:00pm" name="Acro Int/Adv" age="Ages 9+"/>--}}
+{{--                <x-dance day="Thursday" time="7:00pm-8:00pm" name="Jazz" age="Ages 9-11"/>--}}
+{{--                <x-dance day="Friday" time="9:00am-9:45am" name="Top Gun" age="Ages K5-10"/>--}}
+{{--                <x-dance day="Friday" time="9:45am-10:30am" name="Ballet Tech" age="Ages K5-10"/>--}}
+{{--                <x-dance day="Friday" time="9:00am-9:45am" name="Ballet Tech" age="Ages 11+"/>--}}
+{{--                <x-dance day="Friday" time="9:45am-10:30am" name="Top Gun" age="Ages 11+"/>--}}
+{{--            </table>--}}
+{{--            <h2>Ages 12+</h2>--}}
+{{--            <table class="table text-white">--}}
+{{--                <x-dance day="Tuesday" time="4:30pm-5:15pm" name="Acro Beg/Int" age="All Ages"/>--}}
+{{--                <x-dance day="Tuesday" time="5:15pm-6:15pm" name="Ballet (beg/int)" age="Ages 9+"/>--}}
+{{--                <x-dance day="Tuesday" time="6:15pm-7:15pm" name="Lyrical" age="Ages 12+"/>--}}
+{{--                <x-dance day="Tuesday" time="7:15pm-8:30pm" name="Ballet (adv)" age="Ages 12+"/>--}}
+{{--                <x-dance day="Tuesday" time="8:30pm-9:15pm" name="Pre-Pointe" age="Ages 9+"/>--}}
+{{--                <x-dance day="Tuesday" time="8:30pm-9:15pm" name="Pointe" age="Invite only"/>--}}
+{{--                <x-dance day="Wednesday" time="5:30pm-6:30pm" name="Musical Theater" age="Ages 12+"/>--}}
+{{--                <x-dance day="Wednesday" time="6:30pm-7:30pm" name="Tap 1 & 2" age="Ages 9+"/>--}}
+{{--                <x-dance day="Wednesday" time="7:30pm-8:30pm" name="Tap Adv" age="Ages 12+"/>--}}
+{{--                <x-dance day="Thursday" time="4:00pm-5:00pm" name="Leaps & Turns" age="Ages 12+"/>--}}
+{{--                <x-dance day="Thursday" time="6:00pm-7:00pm" name="Acro Int/Adv" age="Invite only"/>--}}
+{{--                <x-dance day="Thursday" time="8:00pm-9:00pm" name="Jazz" age="Ages 12+"/>--}}
+{{--                <x-dance day="Friday" time="9:00am-9:45am" name="Ballet Tech" age="Ages 11+"/>--}}
+{{--                <x-dance day="Friday" time="9:45am-10:30am" name="Top Gun" age="Ages 11+"/>--}}
+{{--            </table>--}}
+{{--        </div>--}}
 
         <div class="d-flex justify-content-center my-3">
             <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
