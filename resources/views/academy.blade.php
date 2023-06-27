@@ -39,7 +39,7 @@
                 <x-room room="Room 1" time="7:00-8:00" name="Ballet Beg/Int" age="Grades 7-12" staff=""/>
                 <x-room room="Room 1" time="8:00-9:30" name="Ballet Int/Adv" age="Grades 7-12 (PBT tech required)" staff=""/>
                 <x-room room="Room 2" time="4:30-5:15" name="Ballet/Tap Combo" age="PreK 3-4" staff=""/>
-                <x-room room="Room 2" time="5:15-6:15" name="Leaps/Turns" age="Grades K-3 (ballet required)" staff=""/>
+                <x-room room="Room 2" time="5:15-6:00" name="Leaps/Turns" age="Grades K-3 (ballet required)" staff=""/>
                 <x-room room="Room 2" time="6:00-7:00" name="Ballet/Lyrical" age="Grades K-1" staff=""/>
                 <x-room room="Room 2" time="7:00-8:00" name="Lyrical" age="Grades 4-6 (ballet required)" staff=""/>
                 <x-room room="Room 2" time="8:00-9:00" name="Leaps/Turns" age="Grades 4-6" staff=""/>
