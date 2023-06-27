@@ -12,14 +12,14 @@
         <a class="nav-link" href="/academy">Schedule</a>
     </li>
     <li class="nav-item mx-2">
+        <a class="nav-link" href="/summer">Summer</a>
+    </li>
+    <li class="nav-item mx-2">
         <a class="nav-link" href="/powerhouse">Powerhouse</a>
     </li>
     <li class="nav-item mx-2">
         <a class="nav-link" href="/calendar">Calendar</a>
     </li>
-{{--    <li class="nav-item mx-2">--}}
-{{--        <a class="nav-link" href="/summer">Summer</a>--}}
-{{--    </li>--}}
     <li class="nav-item mx-2">
         <a class="nav-link" href="/recital">Recital</a>
     </li>
