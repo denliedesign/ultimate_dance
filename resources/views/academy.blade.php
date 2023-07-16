@@ -38,6 +38,7 @@
                 <x-room room="Room 1" time="6:00-7:00" name="Ballet Int/Adv" age="Grades 4-6 (PBT tech required)" staff=""/>
                 <x-room room="Room 1" time="7:00-8:00" name="Ballet Beg/Int" age="Grades 7-12" staff=""/>
                 <x-room room="Room 1" time="8:00-9:30" name="Ballet Int/Adv" age="Grades 7-12 (PBT tech required)" staff=""/>
+                <x-room room="Room 2" time="4:00-4:30" name="Tippy Two's" age="Age 2" staff=""/>
                 <x-room room="Room 2" time="4:30-5:15" name="Ballet/Tap Combo" age="PreK 3-4" staff=""/>
                 <x-room room="Room 2" time="5:15-6:00" name="Leaps/Turns" age="Grades K-3 (ballet required)" staff=""/>
                 <x-room room="Room 2" time="6:00-7:00" name="Ballet/Lyrical" age="Grades K-1" staff=""/>
@@ -64,11 +65,11 @@
                 <x-room room="Room 1" time="6:30-8:00" name="Acro Adv" age="(skill based, Top Gun required)" staff=""/>
                 <x-room room="Room 1" time="8:00-9:00" name="Top Gun" age="Grades 7-12" staff=""/>
 {{--                <x-room room="Room" time="" name="" age="Grades" staff=""/>--}}
-                <x-room room="Room 2" time="4:30-5:30" name="Acro Int/Adv" age="(skill based, Top Gun recommended)" staff=""/>
-                <x-room room="Room 2" time="5:30-6:15" name="Top Gun" age="Grades K-3" staff=""/>
-                <x-room room="Room 2" time="6:15-7:15" name="Lyrical" age="Grades 2-3 (ballet required)" staff=""/>
-                <x-room room="Room 2" time="7:15-8:15" name="Jazz" age="Grades 2-3" staff=""/>
-                <x-room room="Room 2" time="8:15-8:45" name="Private Lessons" age="" staff=""/>
+                <x-room room="Room 2" time="5:00-6:00" name="Acro Int/Adv" age="(skill based, Top Gun recommended)" staff=""/>
+                <x-room room="Room 2" time="6:00-6:45" name="Top Gun" age="Grades K-3" staff=""/>
+                <x-room room="Room 2" time="6:45-7:45" name="Lyrical" age="Grades 2-3 (ballet required)" staff=""/>
+                <x-room room="Room 2" time="7:45-8:45" name="Jazz" age="Grades 2-3" staff=""/>
+                <x-room room="Room 2" time="8:45-9:15" name="Private Lessons" age="" staff=""/>
             </table>
             <h2>Friday & Saturday</h2>
             <table class="table">

@@ -3,9 +3,9 @@
 
     <div class="gradient-splash">
         <div id="primary-bg">
-            <div class="color-filter-burg"></div>
-            <h2 id="primary-txt-mobile" class="d-md-none">dance lessons that teach life lessons</h2>
-            <h2 id="primary-txt" class="d-none d-md-block">dance lessons that teach life lessons</h2>
+{{--            <div class="color-filter-burg"></div>--}}
+            <h2 id="primary-txt-mobile" class="d-md-none">You <span style="color: #51002B;">belong</span> here <ion-icon name="heart"></ion-icon></h2>
+            <h2 id="primary-txt" class="d-none d-md-block">You <span style="color: #51002B;">belong</span> here <ion-icon name="heart"></ion-icon></h2>
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
@@ -36,10 +36,10 @@
 
         <div id="vision" class="text-center text-white">
             <div class="container">
-                <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>
-                <p>
-                    From your child’s first class to their graduation performance, UDF has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, UDF is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
-                </p>
+{{--                <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>--}}
+                <h2 class="text-uppercase">Dance makes GREAT kids!</h2>
+{{--                <p>From your child’s first class to their graduation performance, UDF has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, UDF is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.</p>--}}
+                <p>From your child’s first class to their graduation performance, your child will thrive at UDF! At UDF, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.</p>
             </div>
         </div>
     </div>
