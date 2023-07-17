@@ -13,15 +13,15 @@
                 <div class="gradient-splash text-white p-3 rounded shadow">
                    <p>
                        <strong>Be a part of the EXCITEMENT!</strong> <br>
-                       Our 2022-2023 TEAM AUDITIONS ARE: <br>
-                       Saturday, August 6 <small><em>*prospective new members</em></small> <br>
+                       Our 2023-24 TEAM AUDITIONS ARE: <br>
+                       Saturday, August 5, 9am. <small><em>*prospective new members</em></small> <br>
                    </p>
                     <ul>
                         <li>Minis (ages 5-11) 3:00-3:30pm</li>
                         <li>Teens/Seniors (ages 12-18) 3:30pm</li>
                     </ul>
                     <p>
-                       <strong>**Parent Meeting at 3:00pm<br>
+                       <strong>**Parent Meeting August 12, 8:30am<br>
                        </strong>
                        <br>
                        <em>
@@ -45,16 +45,17 @@
 {{--                    <br>--}}
 {{--                    ULTIMATE DANCE POWERHOUSE TEAM!! <br>--}}
 {{--                    <br>--}}
-                    <br><strong>TEAM CLASS REQUIREMENTS 2022-2023:</strong> <br>
-                    Ballet <br>
-                    Team Ballet Tech <br>
-                    Jazz <br>
-                    Lyrical <br>
-                    Team Tech Skills <br>
-                    Tap <br>
-                    Top Gun <br>
-                    Acro and/or Hip Hop and/or Musical Theater
-                    <br><br>
+                    <br>
+{{--                    <strong>TEAM CLASS REQUIREMENTS 2022-2023:</strong> <br>--}}
+{{--                    Ballet <br>--}}
+{{--                    Team Ballet Tech <br>--}}
+{{--                    Jazz <br>--}}
+{{--                    Lyrical <br>--}}
+{{--                    Team Tech Skills <br>--}}
+{{--                    Tap <br>--}}
+{{--                    Top Gun <br>--}}
+{{--                    Acro and/or Hip Hop and/or Musical Theater--}}
+{{--                    <br><br>--}}
                     <small>
                         **Team rehearsal fee will be added when Team Rehearsals are scheduled
                     </small>

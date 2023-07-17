@@ -41,9 +41,9 @@ Route::get('/calendar', function () {
     return view('/calendar');
 });
 
-Route::get('/summer', function () {
-    return view('/summer');
-});
+//Route::get('/summer', function () {
+//    return view('/summer');
+//});
 
 Route::get('/recital', function () {
     return view('/recital');

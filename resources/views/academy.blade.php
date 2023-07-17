@@ -88,11 +88,13 @@
                 <br>
                 <br>Private lessons available by appointment, scheduled through the front desk. Private lessons must be scheduled a week in advance.
                 <br>
-                <br>Prepointe requires 2 ballet classes and Top Gun taken in conjunction to Prepointe
-                <br>Pointe requires 2 ballet classes) and Top Gun taken in conjunction to Pointe
-                <br>ALL Lyrical classes requires a ballet class in conjunction
-                <br>ALL level 2+/3 classes require  ballet class in conjunction
-                <br>Acro is SKILL BASED. Levels 2 & 3 require ballet class in conjunction
+                <br>
+                Please see each class for required prerequisites
+{{--                <br>Prepointe requires 2 ballet classes and Top Gun taken in conjunction to Prepointe--}}
+{{--                <br>Pointe requires 2 ballet classes) and Top Gun taken in conjunction to Pointe--}}
+{{--                <br>ALL Lyrical classes requires a ballet class in conjunction--}}
+{{--                <br>ALL level 2+/3 classes require  ballet class in conjunction--}}
+{{--                <br>Acro is SKILL BASED. Levels 2 & 3 require ballet class in conjunction--}}
                 <br>
                 <br><small>*PLEASE NOTE: Classes and teachers are subject to change, for any reason.  Classes that do not meet enrollment requirements will be combined or discontinued. If forced to temporarily close due to COVID-19, all classes will seamlessly convert to online until we are able to safely reopen. our physical location.
                     <br>UPDATED 12/10/21</small>
@@ -147,24 +149,25 @@
                 *Please note: when you are ready to REGISTER, you must complete the registration all the way through payment in order to be registered. The system does drop all non-paid partial registrations at midnight each night!
             </div>
             <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                <strong><u>2022-2023 TUITION SCHEDULE</u></strong>
-                <br>1ST HOUR $84
-                <br>
-                2ND - 6TH HOUR $42 (50% DISCOUNT!)
-                <br>
-                7TH - 11TH HOUR $21 (75% DISCOUNT!)
-                <br>
-                12TH HOUR AND ABOVE FREE!!!
-                <br>
-                <em>*The software system will divide incremental hours accordingly</em>
-                <br><br>
-                ANNUAL MEMBERSHIP FEE
-                <br>
-                $50 individual or $75 family
-                <br><br>
-                SIBLING DISCOUNT 5% off 1st child
-                <br>
-                10% off additional children in same house
+                <strong><u>2023-2024 TUITION SCHEDULE</u></strong>
+                <br>Please call us for tuition information
+{{--                <br>1ST HOUR $84--}}
+{{--                <br>--}}
+{{--                2ND - 6TH HOUR $42 (50% DISCOUNT!)--}}
+{{--                <br>--}}
+{{--                7TH - 11TH HOUR $21 (75% DISCOUNT!)--}}
+{{--                <br>--}}
+{{--                12TH HOUR AND ABOVE FREE!!!--}}
+{{--                <br>--}}
+{{--                <em>*The software system will divide incremental hours accordingly</em>--}}
+{{--                <br><br>--}}
+{{--                ANNUAL MEMBERSHIP FEE--}}
+{{--                <br>--}}
+{{--                $50 individual or $75 family--}}
+{{--                <br><br>--}}
+{{--                SIBLING DISCOUNT 5% off 1st child--}}
+{{--                <br>--}}
+{{--                10% off additional children in same house--}}
             </div>
         </div>
 

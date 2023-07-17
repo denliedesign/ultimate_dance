@@ -137,13 +137,15 @@
         </div>
         <p>
 {{--            <strong>All female dancers</strong> (except Hip Hop and Acro) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.--}}
-            <strong>All female dancers</strong> (except Hip Hop and Acro) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.
+            <strong>All female dancers</strong> (except Hip Hop, Acro, Leaps & Turns, and Top Gun) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.
             <br>
 {{--            <strong>Hip Hop</strong> may wear anything, except exposed zippers or rivets that could damage the floor.--}}
             <strong>Hip Hop</strong> may wear anything, except exposed zippers or rivets that could damage the floor.  Hair in a bun or ponytail.
             <br>
 {{--            <strong>Acro</strong> must wear burgundy/maroon leotard with burgundy/maroon boy shorts- no tights.--}}
             <strong>Acro</strong> must wear burgundy/maroon leotard with burgundy/maroon boy shorts- no tights.
+            <br>
+            <strong>Top Gun/Leaps & Turns</strong> ballet attire OR solid black leggings or boy shorts (no name brands showing), solid black sports bra or black leotard, tan convertible tights, appropriate shoes listed below
             <br>
 {{--            <strong>All male dancers</strong> are expected to wear a solid white or black fitted tank t-shirt and black fitted shorts or male tights (ballet), with dance belts for boys 9 and up. Black or white no show thin socks with dance shoes as listed below.--}}
             <strong>All male dancers</strong> are expected to wear a solid white or black fitted tank t-shirt and black fitted shorts or male tights (ballet), with dance belts for boys 9 and up. Black or white no show thin socks with dance shoes as listed below.
@@ -164,7 +166,6 @@
         </p>
         <ul><u>Ages PK5 and under:</u>
             <li>Girls- Capezio "Jr Tyette" Ribbon Tie Tap Shoe (black patent)</li>
-            <li>Girls- Capezio "Jr Tyette" Ribbon Tie Tap Shoe (black patent)</li>
             <li>Boys- Capezio "Tic-Tap-Toe" (black)</li>
         </ul>
         <ul><u>Ages K5+</u>
@@ -173,11 +174,11 @@
         </ul>
         <p class="mb-0">
             <strong>Jazz: *includes combo classes</strong>
-            <br>All Ages: Bloch "Neo-Flex"  Slip On Jazz Shoe (tan)
+            <br>All Ages: BLOCH Pulse Jazz Shoe S0470, (tan)
             <br>
             <br>
             <strong>Lyrical/Contemporary: *includes combo classes</strong>
-            <br>All ages: Dance Paws (match skin tone )#DP1
+            <br>All ages: CAPEZIO Turning Pointe 55 (nude)
             <br>
             <br>
             <strong>Acro:</strong> Barefoot
@@ -191,8 +192,9 @@
             <strong>Musical Theater:</strong>
         </p>
         <ul>
-            <li>Ages 7-11: Capezio Pedini® Femme - Child (caramel)</li>
-            <li>Ages 12+: Capezio 2" Student Footlight Character Shoe (caramel)</li>
+            <li>All ages: BLOCH Pulse Jazz Shoe S0470, (black)</li>
+{{--            <li>Ages 7-11: Capezio Pedini® Femme - Child (caramel)</li>--}}
+{{--            <li>Ages 12+: Capezio 2" Student Footlight Character Shoe (caramel)</li>--}}
             <li>Boy's: Bloch "Neo-Flex"  Slip On Jazz Shoe (tan)</li>
         </ul>
         <h3 class="nic txt-burg-light mb-0 pb-0">Additional Information</h3>
@@ -213,7 +215,7 @@
             <li class="my-3"><strong>NO JEWELRY</strong> (small post earring are ok). <u>UDF will not be responsible for lost or stolen jewelry removed due to being removed for class.</u></li>
             <li class="my-3"><strong>UDF will not be responsible for lost or stolen items.</strong> Please take dance bags with you into your classes. Keep dance bags zipped up.</li>
             <li class="my-3"><strong>ABT examinations:</strong> When offered, students who take optional ABT examinations will be required to purchase required examination leotard and skirt for the examination.</li>
-            <li class="my-3"><strong>Boy shorts:</strong>  Only burgundy, maroon, or black cherry shorts are permitted.  No black.</li>
+{{--            <li class="my-3"><strong>Boy shorts:</strong>  Only burgundy, maroon, or black cherry shorts are permitted.  No black.</li>--}}
             <li class="my-3"><strong>Trial classes:</strong>  Students who are "trying class", please wear dance wear if you have it, if not, please wear fitted clothes.</li>
             <li class="my-3"><strong>Dancewear:</strong>  All dance wear is available online through various dance wear websites, or at Melbourne Dance Wear on US1 or Dance Gear on Barton Road. Please ask us if you are having trouble locating any of our required items. Please do not "substitute" any required items.</li>
             <li class="my-3">Items may be updated as discontinued or unavailable. We will provide an alternative for the item.</li>
