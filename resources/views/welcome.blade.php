@@ -236,6 +236,20 @@
                                     <span class="signed">Lesley C., parent</span>
                                 </p>
                             </div>
+                            <div class="carousel-item">
+                                <p>
+                                    My daughter has grown so much in just one year of dance on the competitive team. She has been at UDF for 3 years now and the instructors have really been great in bringing out her personality as well as improving her dance skills. Looking forward to continued growth and guidance from UDF for her.
+                                    <br>
+                                    <span class="signed">Claire J., parent</span>
+                                </p>
+                            </div>
+                            <div class="carousel-item">
+                                <p>
+                                    I’ve currently been with Ultimate dance for 3 seasons now, and I am looking forward for this upcoming year. Ultimate Dance is a great studio with amazing dance instructors, a great dance environment, and gives students an abundance of opportunities and a chance to become a better dancer. I have improved a lot since I joined Ultimate Dance, and I am excited to become an even better dancer. I think that UDF is an amazing place to dance.
+                                    <br>
+                                    <span class="signed">Ella J, student</span>
+                                </p>
+                            </div>
                         </div>
                         <div class="carousel-indicators" style="position: absolute; bottom: 0; height: 100%;">
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -243,6 +257,8 @@
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="2" aria-label="Slide 3"></button>
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="3" aria-label="Slide 4"></button>
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                            <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                            <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="6" aria-label="Slide 7"></button>
                         </div>
                     </div>
                     <!-- carousel end -->
