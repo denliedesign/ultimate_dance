@@ -1,4 +1,5 @@
 <tr>
+    <td>{{ $day }}</td>
     <td>{{ $room }}</td>
     <td>{{ $time }}</td>
     <td>{{ $name }}</td>

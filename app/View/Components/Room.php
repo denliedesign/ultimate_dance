@@ -16,14 +16,16 @@ class Room extends Component
     public $name;
     public $age;
     public $staff;
+    public $day;
 
-    public function __construct($room, $time, $name, $age, $staff)
+    public function __construct($room, $time, $name, $age, $staff, $day)
     {
         $this->room = $room;
         $this->time = $time;
         $this->name = $name;
         $this->age = $age;
         $this->staff = $staff;
+        $this->day = $day;
     }
 
     /**
