@@ -16,10 +16,10 @@
                        Our 2023-24 TEAM AUDITIONS ARE: <br>
                        Saturday, August 5, 9am. <small><em>*prospective new members</em></small> <br>
                    </p>
-                    <ul>
-                        <li>Minis (ages 5-11) 3:00-3:30pm</li>
-                        <li>Teens/Seniors (ages 12-18) 3:30pm</li>
-                    </ul>
+{{--                    <ul>--}}
+{{--                        <li>Minis (ages 5-11) 3:00-3:30pm</li>--}}
+{{--                        <li>Teens/Seniors (ages 12-18) 3:30pm</li>--}}
+{{--                    </ul>--}}
                     <p>
                        <strong>**Parent Meeting August 12, 8:30am<br>
                        </strong>

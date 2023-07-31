@@ -192,10 +192,9 @@
             <strong>Musical Theater:</strong>
         </p>
         <ul>
-            <li>All ages: BLOCH Pulse Jazz Shoe S0470, (black)</li>
-{{--            <li>Ages 7-11: Capezio Pedini® Femme - Child (caramel)</li>--}}
-{{--            <li>Ages 12+: Capezio 2" Student Footlight Character Shoe (caramel)</li>--}}
-            <li>Boy's: Bloch "Neo-Flex"  Slip On Jazz Shoe (tan)</li>
+            <li>Boys: Bloch Pulse Jazz Shoe SO470, (black)</li>
+            <li>Ages K5-10: So Danca “Jolie” JZ44, (black) *if they do not carry your smaller size, please purchase Bloch Pulse Jazz Shoe SO470, (black)</li>
+            <li>Ages 11+: Theatricals ‘Baby Louis” 1.5 shoes, (black)</li>
         </ul>
         <h3 class="nic txt-burg-light mb-0 pb-0">Additional Information</h3>
 {{--        <ol>--}}
