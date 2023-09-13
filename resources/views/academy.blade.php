@@ -29,7 +29,7 @@
                 <x-room day="" room="" time="7:00-8:00" name="Hip Hop" age="Grades 4-12" staff=""/>
                 <x-room day="" room="" time="7:00-8:00" name="Tap" age="Grades 7-12" staff=""/>
                 <x-room day="" room="" time="8:00-9:00" name="Musical Theater" age="Grades 7-12" staff=""/>
-                <x-room day="" room="" time="8:00-9:00" name="Top Gun" age="Grades 4-6" staff=""/>
+                <x-room day="" room="" time="8:00-9:00" name="Top Gun" age="Grades K5-11" staff=""/>
 {{--                <x-room day="" room="Room 1" time="4:00-5:00" name="Musical Theater" age="Grades K-3" staff=""/>--}}
 {{--                <x-room day="" room="Room 1" time="5:00-6:00" name="Musical Theater" age="Grades 4-6" staff=""/>--}}
 {{--                <x-room day="" room="Room 1" time="6:00-7:00" name="Tap" age="Grades 2-3" staff=""/>--}}
@@ -77,8 +77,8 @@
 {{--                <x-room day= room="Room" time="" name="" age="Grades" staff=""/>--}}
                 <x-room day="" room="Room 2" time="5:00-6:00" name="Acro Int/Adv" age="(skill based, Top Gun recommended)" staff=""/>
                 <x-room day="" room="Room 2" time="6:00-6:45" name="Top Gun" age="Grades K-3" staff=""/>
-                <x-room day="" room="Room 2" time="6:45-7:45" name="Lyrical" age="Grades 2-3 (ballet required)" staff=""/>
-                <x-room day="" room="Room 2" time="7:45-8:45" name="Jazz" age="Grades 2-3" staff=""/>
+                <x-room day="" room="Room 2" time="6:00-7:00" name="Lyrical" age="Grades 2-3 (ballet required)" staff=""/>
+                <x-room day="" room="Room 2" time="7:00-8:00" name="Jazz" age="Grades 2-3" staff=""/>
                 <x-room day="" room="Room 2" time="8:45-9:15" name="Private Lessons" age="" staff=""/>
             </table>
             <h2>Friday & Saturday</h2>
@@ -104,6 +104,7 @@
                 <table class="table text-white">
                     <x-room room="" age="" staff="" day="Monday" time="4:00pm" name="Musical Theater ages K5-8 (Grades K-3)"/>
                     <x-room room="" age="" staff="" day="Monday" time="5:00pm" name="Hip Hop ages K5-8 (Grade K-3)"/>
+                    <x-room room="" age="" staff="" day="Monday" time="8:00pm" name="Top Gun K5-11"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="5:15pm" name="Leaps/Turns 5-8 (Grade K-3)"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="6:00pm" name="Ballet/Lyrical 5-6 (Grade K-1)"/>
                     <x-room room="" age="" staff="" day="Wednesday" time="4:30pm" name="Jazz/Tap 5-6 (Grade K-1)"/>
@@ -116,12 +117,13 @@
                     <x-room room="" age="" staff="" day="Monday" time="4:00pm" name="Musical Theater ages K5-8 (Grades K-3)"/>
                     <x-room room="" age="" staff="" day="Monday" time="5:00pm" name="Hip Hop ages K5-8 (Grade K-3)"/>
                     <x-room room="" age="" staff="" day="Monday" time="6:00pm" name="Beg Tap 7+"/>
+                    <x-room room="" age="" staff="" day="Monday" time="8:00pm" name="Top Gun K5-11"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="4:00pm" name="Ballet 7-8 (Grade 2-3)"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="5:15pm" name="Leaps/Turns 5-8 (Grade K-3)"/>
                     <x-room room="" age="" staff="" day="Thursday" time="4:30pm" name="Acro beg (skill based) OR Acro int (skill based)"/>
                     <x-room room="" age="" staff="" day="Thursday" time="5:30pm" name="Top Gun 5-8 (Grade K-3)"/>
-                    <x-room room="" age="" staff="" day="Thursday" time="6:15pm" name="Lyrical 7-8 (Grade 2-3)*Ballet required"/>
-                    <x-room room="" age="" staff="" day="Thursday" time="7:15pm" name="Jazz 7-8 (Grade 2-3)"/>
+                    <x-room room="" age="" staff="" day="Thursday" time="6:00pm" name="Lyrical 7-8 (Grade 2-3)*Ballet required"/>
+                    <x-room room="" age="" staff="" day="Thursday" time="7:00pm" name="Jazz 7-8 (Grade 2-3)"/>
                 </table>
 
                 <h2>Ages 9-11</h2>
@@ -130,7 +132,7 @@
                     <x-room room="" age="" staff="" day="Monday" time="6:00pm" name="Beg Tap 7+"/>
                     <x-room room="" age="" staff="" day="Monday" time="6:00pm" name="Intermediate Tap 9+"/>
                     <x-room room="" age="" staff="" day="Monday" time="7:00pm" name="Hip Hop ages 9+ (Grade 4-12)"/>
-                    <x-room room="" age="" staff="" day="Monday" time="8:00pm" name="Top Gun 9-11 (Grade 4-6)"/>
+                    <x-room room="" age="" staff="" day="Monday" time="8:00pm" name="Top Gun K5-11"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="5:00pm" name="Ballet beg/int 9-11 (Grade 4-6)"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="6:00pm" name="Ballet int/adv 9-11 (must also take PBT tech class)"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="7:00pm" name="Lyrical 9-11 (Grade 4-6)*Ballet required"/>
@@ -152,6 +154,7 @@
                     <x-room room="" age="" staff="" day="Monday" time="7:00pm" name="Hip Hop ages 9+ (Grade 4-12)"/>
                     <x-room room="" age="" staff="" day="Monday" time="7:00pm" name="Tap 11+ adv (Grade 7-12)"/>
                     <x-room room="" age="" staff="" day="Monday" time="8:00pm" name="Musical Theater 12+ (Grades 7-12)"/>
+                    <x-room room="" age="" staff="" day="Monday" time="8:00pm" name="Top Gun K5-11"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="7:00pm" name="Ballet beg/int 12+ (Grade 7-12)"/>
                     <x-room room="" age="" staff="" day="Tuesday" time="8:00pm" name="Ballet int/adv 12+ (must also take PBT tech class)"/>
                     <x-room room="" age="" staff="" day="Wednesday" time="5:30pm" name="Jazz 12+ (Grade 7-12)"/>
