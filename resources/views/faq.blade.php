@@ -7,6 +7,9 @@
 
     <div class="container">
         <h1 class="text-center my-4">Philosophy</h1>
+        <div class="d-flex justify-content-center">
+            <img src="/images/culture.jpeg" alt="culture poster" class="img-fluid mb-2" style="max-width: 800px; width: 100%;">
+        </div>
         <p>
             The PROFESSIONAL Staff at Ultimate Dance Florida is extremely careful and dedicated to choosing the correct class level and placement for each student. It is very important to remember that all students are individuals with very different talents, skills, and ability levels and they will not all progress at the same rate. The most important thing is that the student "enjoys" the class and "feels comfortable" in it and is "happy". A "happy" learning environment is sure to yield progress. Ultimate Dance Florida is a very progressive school and all of our classes are challenging in different ways.
         </p>
