@@ -18,3 +18,6 @@
         </li>
     </ul>
 </div>
+<div class="text-center text-capitalize" style="background: #FCA81B;">
+    <p class="fw-bold py-2">Summer Registration is open! <a href="/academy">Register now!</a></p>
+</div>

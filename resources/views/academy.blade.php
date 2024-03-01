@@ -6,10 +6,10 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-4">2023-2024 Schedule</h1>
+        <h1 class="text-center my-4">Summer 2024 Schedule</h1>
         <div class="gradient-splash rounded shadow p-3 text-white">
             <h4 class="text-center fw-bold mb-0 pb-0">
-                Join us for our 2023-2024 season!
+                Join us this summer!
             </h4>
             <p class="text-center my-0 py-0"><small><em>Class sizes are limited! Register Today!!</em></small></p>
             <div class="d-flex justify-content-center my-3">
@@ -62,17 +62,17 @@
 
         <div class="container">
             <div class="gradient-splash rounded shadow p-3 text-white">
-                <h2>Ages 2-3</h2>
+                <h2>Ages 2-4</h2>
                 <table class="table text-white">
-                    <x-room day="Wednesday" room="Room 2" time="5:00-6:00" name="Ballet/Tap/Tumble" age="Ages 2-3" staff="April"/>
+                    <x-room day="Wednesday" room="Room 2" time="5:00-6:00" name="Ballet/Tap/Tumble" age="Ages 2-4" staff="April"/>
 
                 </table>
 
-                <h2>Ages 5-14</h2>
+                <h2>Ages 5-8</h2>
                 <table class="table text-white">
-                    <x-room day="Wednesday" room="Room 1" time="5:00-6:00" name="Lyrical" age="Grades K5-8" staff="Karis"/>
-                    <x-room day="Wednesday" room="Room 2" time="6:00-7:00" name="Ballet" age="Grades K5-8" staff="April"/>
-                    <x-room day="Thursday" room="Room 1" time="6:00-7:00" name="Jazz/Tap" age="Grades K5-8" staff="Karis"/>
+                    <x-room day="Wednesday" room="Room 1" time="5:00-6:00" name="Lyrical" age="Ages 5-8" staff="Karis"/>
+                    <x-room day="Wednesday" room="Room 2" time="6:00-7:00" name="Ballet" age="Ages 5-8" staff="April"/>
+                    <x-room day="Thursday" room="Room 1" time="6:00-7:00" name="Jazz/Tap" age="Ages 5-8" staff="Karis"/>
                     <!-- Note: The classes for Grades K5-8 also fit within the Ages 9-11 group due to grade to age mapping -->
 
                 </table>
