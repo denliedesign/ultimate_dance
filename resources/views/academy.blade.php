@@ -218,6 +218,12 @@
                 We don't just make <em>great dancers</em> we make <em>great kids!</em>
             </p>
         </div>
+        <div class="d-flex justify-content-center my-3">
+            <img src="/images/summer-graphic.JPEG" alt="summer graphic" class="img-fluid">
+        </div>
+        <div class="d-flex justify-content-center my-3">
+            <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
+        </div>
     </div>
 
 @endsection
