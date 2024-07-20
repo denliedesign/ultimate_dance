@@ -19,5 +19,6 @@
     </ul>
 </div>
 <div class="text-center text-capitalize" style="background: #FCA81B;">
-    <p class="fw-bold py-2"><a href="/summer">Summer</a> & <a href="/academy">Fall</a> Registration are open!</p>
+    <p class="fw-bold py-2"><a href="/academy">Fall</a> Registration is open!</p>
+{{--    <p class="fw-bold py-2"><a href="/summer">Summer</a> & <a href="/academy">Fall</a> Registration are open!</p>--}}
 </div>

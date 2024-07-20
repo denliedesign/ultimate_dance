@@ -14,7 +14,7 @@
                    <p>
                        <strong>Be a part of the EXCITEMENT!</strong> <br>
                        Our 2024-25 TEAM AUDITIONS ARE: <br>
-                       Friday, August 2, 9am. <small><em>*prospective new members</em></small> <br>
+                       Friday, August 2, 5pm. <small><em>*prospective new members</em></small> <br>
                    </p>
 {{--                    <ul>--}}
 {{--                        <li>Minis (ages 5-11) 3:00-3:30pm</li>--}}
@@ -22,7 +22,7 @@
 {{--                    </ul>--}}
                     <p>
                        <strong>**Parent meeting immediately following tryouts.<br>
-                       </strong>
+                           **UDF Back to School Intensive Required for all prospective and current UDF Team dancers<br></strong>
                        <br>
                        <em>
                            Please email UDFpowerteam@gmail.com to express your interest. <br>
