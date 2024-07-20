@@ -20,9 +20,9 @@
         <div class="my-5 p-3">
             <h2>Monday</h2>
             <table class="table">
-                <x-room room="" day="Monday" time="5:00pm-6:00pm" name="Leaps/Turns" age="9-11 (Grade 4-6)" staff="AA"/>
+                <x-room room="" day="Monday" time="5:00pm-6:00pm" name="Leaps/Turns" age="7-11 (Grade 2-6)" staff="AA"/>
                 <x-room room="" day="Monday" time="6:00pm-7:00pm" name="Leaps/Turns" age="12+ (Grade 7-12)" staff="AA"/>
-                <x-room room="" day="Monday" time="7:00pm-7:45pm" name="Leaps/Turns" age="5-8 (Grade K-3)" staff="AA"/>
+{{--                <x-room room="" day="Monday" time="7:00pm-7:45pm" name="Leaps/Turns" age="5-8 (Grade K-3)" staff="AA"/>--}}
                 <x-room room="" day="Monday" time="8:00pm-9:00pm" name="Privates by appointment" age="" staff="AA"/>
                 <x-room room="" day="Monday" time="4:15pm-5:00pm" name="Preschool Tumbling" age="" staff="JS"/>
                 <x-room room="" day="Monday" time="5:00pm-6:00pm" name="Acro 1" age="beg (skill based)" staff="JS"/>

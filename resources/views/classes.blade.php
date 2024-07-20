@@ -137,7 +137,9 @@
         </div>
         <p>
 {{--            <strong>All female dancers</strong> (except Hip Hop and Acro) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.--}}
-            <strong>All female dancers</strong> (except Hip Hop, Acro, Leaps & Turns, and Top Gun) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.
+            <strong>All Preschool Female Dancers</strong> are expected to be in a light pink leotard (with or without attached skirt) and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette. *We sell this leotard at the studio
+            <br>
+            <strong>All School Age Female Dancers</strong> (except Hip Hop) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.
             <br>
 {{--            <strong>Hip Hop</strong> may wear anything, except exposed zippers or rivets that could damage the floor.--}}
             <strong>Hip Hop</strong> may wear anything, except exposed zippers or rivets that could damage the floor.  Hair in a bun or ponytail.
@@ -145,10 +147,10 @@
 {{--            <strong>Acro</strong> must wear burgundy/maroon leotard with burgundy/maroon boy shorts- no tights.--}}
             <strong>Acro</strong> must wear burgundy/maroon leotard with burgundy/maroon boy shorts- no tights.
             <br>
-            <strong>Top Gun/Leaps & Turns</strong> ballet attire OR solid black leggings or boy shorts (no name brands showing), solid black sports bra or black leotard, tan convertible tights, appropriate shoes listed below
-            <br>
+{{--            <strong>Top Gun/Leaps & Turns</strong> ballet attire OR solid black leggings or boy shorts (no name brands showing), solid black sports bra or black leotard, tan convertible tights, appropriate shoes listed below--}}
+{{--            <br>--}}
 {{--            <strong>All male dancers</strong> are expected to wear a solid white or black fitted tank t-shirt and black fitted shorts or male tights (ballet), with dance belts for boys 9 and up. Black or white no show thin socks with dance shoes as listed below.--}}
-            <strong>All male dancers</strong> are expected to wear a solid white or black fitted tank t-shirt and black fitted shorts or male tights (ballet), with dance belts for boys 9 and up. Black or white no show thin socks with dance shoes as listed below.
+            <strong>All Male Dancers</strong> are expected to wear a solid white or black fitted tank t-shirt and black fitted shorts or male tights (ballet), with dance belts for boys 9 and up. Black or white no show thin socks with dance shoes as listed below.
         </p>
         <h3 class="nic txt-burg-light pb-0 mb-0">Shoe Requirements:</h3>
         <p class="mb-0">
@@ -174,7 +176,7 @@
         </ul>
         <p class="mb-0">
             <strong>Jazz: *includes combo classes</strong>
-            <br>All Ages: BLOCH Pulse Jazz Shoe S0470, (tan)
+            <br>All Ages: BLOCH Pulse Jazz Shoe S0470, tan (girls), black (boys)
             <br>
             <br>
             <strong>Lyrical/Contemporary: *includes combo classes</strong>
@@ -193,8 +195,9 @@
         </p>
         <ul>
             <li>Boys: Bloch Pulse Jazz Shoe SO470, (black)</li>
-            <li>Ages K5-10: So Danca “Jolie” JZ44, (black) *if they do not carry your smaller size, please purchase Bloch Pulse Jazz Shoe SO470, (black)</li>
-            <li>Ages 11+: Theatricals ‘Baby Louis” 1.5 shoes, (black)</li>
+            <li>5-8 So Danca “Jolie” JZ44, (black) *if they do not carry your smaller size, please purchase Bloch Pulse Jazz Shoe SO470, (black)</li>
+            <li>9-11 So Danca “Jolie” JZ44, (black)</li>
+            <li>12+ Theatricals ‘Baby Louis” 1.5 shoes, (black)</ul>
         </ul>
         <h3 class="nic txt-burg-light mb-0 pb-0">Additional Information</h3>
 {{--        <ol>--}}

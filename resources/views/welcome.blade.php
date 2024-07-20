@@ -251,6 +251,34 @@
                                     <span class="signed">Ella J, student</span>
                                 </p>
                             </div>
+                            <div class="carousel-item">
+                                <p>
+                                    My daughter has been dancing at Ultimate Dance Florida for 3.5 years. She is just starting her third year on their competitive dance team. The training, the friendships, and the confidence that my daughter has gained in the last 3 years has been amazing. Dance has become her second home and family thanks to Miss Annette and the rest of the UDF staff and faculty.
+                                    <br>
+                                    <span class="signed">Rosemary B., parent</span>
+                                </p>
+                            </div>
+                            <div class="carousel-item">
+                                <p>
+                                    My daughter has been at Ultimate Dance for 3 years, and joined the team this past year. The studio has become her second home and she takes as many classes as she can fit in. While a lot of studios will focus almost entirely on team, UDF encourages both recreational dancers and team dancers. There is never any pressure to join team or to advance beyond a child’s ability. We love getting the professional photos every year, and the professional video of the recital at the end of each season. Glad we found this studio!
+                                    <br>
+                                    <span class="signed">Karen T., parent</span>
+                                </p>
+                            </div>
+                            <div class="carousel-item">
+                                <p>
+                                    My daughter has been with Ultimate Dance for 5 years! She has grown so much as a dancer and a human. Miss Annette and the whole Ultimate family are welcoming and loving. My daughter has even done the competition team for 4 years and is gearing up for her 5th. We love Ultimate Dance and wouldn’t go anywhere else!
+                                    <br>
+                                    <span class="signed">Amanda K., parent</span>
+                                </p>
+                            </div>
+                            <div class="carousel-item">
+                                <p>
+                                    My daughters started to dance with UDF 8 years ago and have grown so much in dance and socially during that time. Our youngest was so shy and has really come out of her shell and absolutely lives for her dance days! The teachers are amazing. We have danced with Miss April for years and years and she is exceptional! Thank you for almost a decade of dance UDF!
+                                    <br>
+                                    <span class="signed">Noah W., parent</span>
+                                </p>
+                            </div>
                         </div>
                         <div class="carousel-indicators" style="position: absolute; bottom: 0; height: 100%;">
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -260,6 +288,10 @@
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="4" aria-label="Slide 5"></button>
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="5" aria-label="Slide 6"></button>
                             <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="6" aria-label="Slide 7"></button>
+                            <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="7" aria-label="Slide 8"></button>
+                            <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="8" aria-label="Slide 9"></button>
+                            <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="9" aria-label="Slide 10"></button>
+                            <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="10" aria-label="Slide 11"></button>
                         </div>
                     </div>
                     <!-- carousel end -->
