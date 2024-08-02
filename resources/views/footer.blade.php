@@ -7,7 +7,7 @@
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-burg-dark">Want To Give It A Try?</p>
-                <a href="#" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Schedule A Trial!</div></a>
+                <a href="tel:+3216368966" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Call us to schedule a FREE trial class</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-gold">Still Have Questions?</p>
