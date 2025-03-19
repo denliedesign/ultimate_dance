@@ -31,7 +31,7 @@
         <div class="container">
             <div class="gradient-splash rounded shadow p-3 text-white">
                 <h2 class="text-center">Summer Camps</h2>
-                <img src="/images/25-summer-camp.jpg" alt="summer camp calendar" class="img-fluid">
+                <img src="/images/25-summer-camps-hidden.jpg" alt="summer camp calendar" class="img-fluid">
                 <div class="d-flex justify-content-center my-3">
                     <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
                 </div>
