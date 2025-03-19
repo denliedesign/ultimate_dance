@@ -13,8 +13,9 @@
                 <div class="gradient-splash text-white p-3 rounded shadow">
                    <p>
                        <strong>Be a part of the EXCITEMENT!</strong> <br>
-                       Our 2024-25 TEAM AUDITIONS ARE: <br>
-                       Friday, August 2, 5pm. <small><em>*prospective new members</em></small> <br>
+                       Our 2025-26 TEAM AUDITIONS ARE: <br>
+                       Friday, August 1, beginning at 4pm. <small><em>*prospective new members</em></small> <br>
+                       The 1st choreography weekend will be August 1-3
                    </p>
 {{--                    <ul>--}}
 {{--                        <li>Minis (ages 5-11) 3:00-3:30pm</li>--}}

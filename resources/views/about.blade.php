@@ -94,7 +94,36 @@
                 <x-staff name="Miss April Shock" bio="April acquired a love for dance at a young age. At 10, she began cleaning a studio in Matthews, VA in exchange for dance classes and has been sleeping and breathing dance ever since. April went on to become the youngest member of the performing company at Diggs School of Dance in Virginia. She attended Eastern Virginia School of Dance before moving to Florida where she began dancing at The Orlando Ballet. She is trained in Ballet, Pointe, Jazz, Lyrical, Tap, Contemporary, and Hip Hop. She is the recipient of two dance scholarships from Dance Educators of America, and has taught for many studios. Additionally, she has danced professionally as a main stage performer with Disney Magic Cruise Line. She believes God has given her the gift of dance and seeks to share this gift with others, hoping to inspire people of all ages with self confidence, respect, and inspiration. Miss April is celebrating 14 years with UDF and hopes to continue to inspire and share her love of dance with her UDF students. Both of her adorable daughters dance at UDF too! Miss April is our UDF competitive team Assistant Director."/>
                 <x-staff name="Miss Samantha Blanchard" bio="Samantha Blanchard’s early dance training was in Denishawn Dance and Cecchetti Ballet until she attended the University of Massachusetts, Amherst as a dance major.  She received a BFA in Dance in 1991. In 2014, Blanchard received her MFA in Creative Inquiry and Interdisciplinary Arts from California Institute of Integral Studies in San Francisco. Blanchard taught at various colleges, studios and public schools on both the east and west coasts and has  twenty plus years of coordinating, teaching and choreographing for collegiate and youth dance and theatre productions. Samantha Trained in Ballroom Dance for one year at Dance Arts Studio with Allan Parish in San Rafael California. Here she taught beginning and intermediate foxtrot, waltz, swing, tango and salsa to adults. While in San Francisco, Blanchard choreographed for Linda Bulgo's Musical Productions. Bulgo’s claim to fame is her performance of Snow White in SF’s notorious Beach Blanket Babylon for 20 years. Samantha worked on the youth musical“The Wizard of Oz,” and taught musical theater summer camp. She also taught a summer of musical theater at Danspace for the advanced dancers and choreographed a stunning vignette of CATS. Currently, Blanchard is working with the Dr. Philips Performing Arts Center adjudicating high school musicals for the Applause Awards.  Winners of Central Florida will be invited to compete in the Jimmy Awards in New York City to work with professionals and get a chance to perform on Broadway. Blanchard performed professionally with various companies on the East and West coasts until she formed her own company; Eclipse Dance Theater. Eclipse’s mission aims to collide dance and the spoken word to create cutting-edge feminine perspectives of theatrical experience, reflecting the views and experiences of modern women. As Artistic Director of Eclipse Dance Theater, she presented, self-produced and toured twelve evening-length works both nationally and internationally. Eclipse was the resident company for 5 years in San Francisco for Dancers’ Group Studio Theater where they taught company class, rehearsed and performed.  Eclipse was the recipient of numerous awards including  grants from The Zellerbach Family Fund. The company has been quoted by the  San Francisco Bay Guardian for their “…simple genuineness,” by the East Bay Express “…that inherited wisdom-whether folk or esoteric-can offer us direction for a more authentic future,” and by the World Dance Review as “Stunning!”"/>
                 <x-staff name="Miss Angela Short" bio="Angela is an alumni of UDF! She was a member of our Powerhouse Dance Team for many years. She is trained in all styles of dance. She loves teaching for the studio she grew up in, and has the joy of watching her daughter and son continue the legacy. Miss Angela enjoys working with all ages, and especially loves teaching our Top Gun classes. Miss Angela also works as one of our Front Desk Ambassadors and is happy to answer any questions that you may have about the studio."/>
-                <x-staff name="Mr. Jeremy Sonstroem" bio="Bio coming soon"/>
+                <x-staff name="Mr. Jeremy Sonstroem" bio="
+Jeremy started dancing at the age of eight and has not stopped since. He grew up
+dancing and competing in the Orlando, Florida area. As a young competitive dancer,
+Jeremy was extremely successful and influential to the dance scene around him. He
+has been awarded numerous scholarships to Broadway Dance Center, EDGE PAC,
+Gus Giordano Jazz, and Rock School of Dance. His first professional job as a dancer
+was with Royal Caribbean where he experienced working with top stage directors and
+choreographers in the industry. He continued his dance education through training with
+the Valencia Dance Program. Those college years were spent studying modern and
+classical ballet which presented opportunities to perform works by Alvin Ailey, Martha
+Graham, and George Balanchine. Instilling the importance of dance history into his
+curriculum.
+<br><br>
+Jeremy started as a teacher's assistant at the age of twelve. By the age of sixteen, he
+was teaching classes fully on his own. Then by the age of eighteen his routines that he
+choreographed would win top billing at competitions. His students have helped inspire
+numerous choreography, costume, and technique awards over the years. These
+accolades and dance education supported him in his years as a studio owner. It was
+also seven seasons where Jeremy was the choreographer and coach for the Orlando
+Magic Minis. His dancers were given numerous performance opportunities over the
+course of these years including the 2012 NBA All-Stars Games.
+<br><br>
+Jeremy has been teaching and inspiring dancers for over fifteen years. Utilizing his
+enthusiastic personality with his sharp technical eye he continues to produce dancers
+that courageously follow their own goals and ambitions within the industry. You can find
+some of his students over the years on various Orlando billboards, working for
+numerous Television shows, performing and touring on Broadway, sailing the seas on
+cruise ships, and even as singers landing on the pop charts. He is extremely excited
+and eager to have this opportunity to continue to train and grow with the UDF Team.
+"/>
 {{--                <x-staff name="Miss Anjani Sadhoo" bio="Teacher in Training (Bio coming soon)"/>--}}
             </p>
         </div>

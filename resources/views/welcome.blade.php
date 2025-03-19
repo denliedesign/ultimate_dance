@@ -188,13 +188,14 @@
         <div class="container">
             <div class="row py-5">
                 <div class="col-sm">
-                    <h2 class="text-center">Reader's Choice Award<br>5 YEARS IN A ROW!</h2>
-                    <div class="row row-cols-5">
+                    <h2 class="text-center">Reader's Choice Award<br>6 YEARS IN A ROW!</h2>
+                    <div class="row row-cols-6">
                         <img src="/images/ReadersChoice2019.png" alt="readers choice 2019" class="img-fluid">
                         <img src="/images/ReadersChoice2020.png" alt="readers choice 2020" class="img-fluid">
                         <img src="/images/ReadersChoice2021.png" alt="readers choice 2021" class="img-fluid">
                         <img src="/images/ReadersChoice2022b.PNG" alt="readers choice 2022" class="img-fluid">
                         <img src="/images/ReaderChoice2023.png" alt="readers choice 2023" class="img-fluid">
+                        <img src="/images/readers-choice-24-Photoroom.png" alt="readers choice 2024" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-sm" style="position: relative; min-height: 85vh; height: 100%;">
