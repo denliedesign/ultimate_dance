@@ -19,7 +19,7 @@
 
         <div class="my-5 p-3">
             <div>
-                <h2 class="text-center">Summer Classes</h2>
+                <h2 class="text-center">Summer Classes June 9 - July 3</h2>
                 <img src="/images/25-summer-classes-1.jpg" alt="summer class calendar" class="img-fluid">
                 <img src="/images/25-summer-classes-2.jpg" alt="summer class calendar" class="img-fluid">
             </div>
@@ -111,8 +111,8 @@
                 *Please note: when you are ready to REGISTER, you must complete the registration all the way through payment in order to be registered. The system does drop all non-paid partial registrations at midnight each night!
             </div>
             <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                <strong><u>2023-2024 TUITION SCHEDULE</u></strong>
-                <br>Please call us for tuition information
+{{--                <strong><u>2025-2026 TUITION SCHEDULE</u></strong>--}}
+{{--                <br>Please call us for tuition information--}}
             </div>
         </div>
 
