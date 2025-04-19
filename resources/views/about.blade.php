@@ -124,6 +124,33 @@ numerous Television shows, performing and touring on Broadway, sailing the seas 
 cruise ships, and even as singers landing on the pop charts. He is extremely excited
 and eager to have this opportunity to continue to train and grow with the UDF Team.
 "/>
+                <x-staff
+                    name="Phoenix Aryndia Vincent"
+                    bio="
+Phoenix Aryndia Vincent is a seasoned choreographer, teacher, and dancer with training from some of the
+best in the industry. Phoenix has traveled all over the country studying from dance icons such as Mia
+Michaels, Mandy Moore, Justin Giles, TOKYO, Dee Caspery, Jackie Sleight, Rick Robinson, and Darryl
+Yeager. Phoenix did a one on one mentoring program with Mia Michaels that has had a huge influence on
+her development of original foundational technique systems for dancers. She danced professionally with
+three different professional dance companies in Utah and in 2008, Phoenix opened up her own large
+dance studio at the age of 28.
+<br><br>
+For nine years Phoenix was the artistic director and founder of Elle Vie Dance Company, a professional
+dance company.  With her company she has produced 5 full length shows and has performed in three
+different states. She is very innovative in her approach to dance, looking for new ways to entertain, new
+paths to create success in the industry, and never accepting a path or solution just because everyone else is
+doing it that way. She offers a high level of technical as well as creative training for all of her students.
+<br><br>
+Nothing is impossible to her, and she gives that same courage and enthusiasm to her performers and her
+audience, so that all walk away inspired and empowered.
+<br><br>
+Her most recent accomplishments include being hired to choreograph for a short film, “I See Rose”
+which shows a young girl’s journey to find her voice while being trafficked. She has also been accepted
+into American Dance Festival’s Dance Professional’s Workshop for summer of 2025 to work with former
+Artistic Director of Alvin Ailey American Dance Theater Robert Battle. She looks forward to continuing
+to teach, inspire, create, and push herself as an artist all around the world.
+"
+                />
 {{--                <x-staff name="Miss Anjani Sadhoo" bio="Teacher in Training (Bio coming soon)"/>--}}
             </p>
         </div>
