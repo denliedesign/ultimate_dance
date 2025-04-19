@@ -20,8 +20,8 @@
         <div class="my-5 p-3">
             <div>
                 <h2 class="text-center">Summer Classes June 9 - July 3</h2>
-                <img src="/images/25-summer-classes-1.jpg" alt="summer class calendar" class="img-fluid">
-                <img src="/images/25-summer-classes-2.jpg" alt="summer class calendar" class="img-fluid">
+                <img src="/images/summer-classes-4-18-25a.jpg" alt="summer class calendar" class="img-fluid">
+                <img src="/images/summer-classes-4-18-25b.jpg" alt="summer class calendar" class="img-fluid">
             </div>
             <div class="d-flex justify-content-center my-3">
                 <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
