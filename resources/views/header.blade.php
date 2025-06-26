@@ -1,5 +1,5 @@
 <div class="d-flex justify-content-center pt-3 bg-white">
-    <a class="navbar-brand" href="/"><img src="/images/logo-udf.jpg" alt="" style="max-width: 400px; width: 100%;"></a>
+    <a class="navbar-brand" href="/"><img src="/images/logo-udf-25.jpeg" alt="" style="max-width: 400px; width: 100%;"></a>
 </div>
 <nav class="navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-center">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-list-21" aria-controls="nav-list-21" aria-expanded="false" aria-label="Toggle navigation">

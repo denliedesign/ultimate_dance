@@ -37,9 +37,8 @@
         <div id="vision" class="text-center text-white">
             <div class="container">
 {{--                <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>--}}
-                <h2 class="text-uppercase">Dance makes GREAT kids!</h2>
-{{--                <p>From your child’s first class to their graduation performance, UDF has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, UDF is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.</p>--}}
-                <p>From your child’s first class to their graduation performance, your child will thrive at UDF! At UDF, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.</p>
+                <h2 class="text-uppercase">Dance makes AMAZING kids!</h2>
+                <p>From your child’s first class to their graduation performance, your child will thrive at UDF! Our dance classes go beyond technique, helping dancers grow into respectful, confident, and conscientious young people who share their gifts and talents with the community.</p>
             </div>
         </div>
     </div>
@@ -136,53 +135,53 @@
         </div>
     </div>
 
-    <div id="mtjgd-bg" class="text-white">
-        <div class="color-filter-burg"></div>
-        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>
-        <div>
-            <div class="row tertiary-txt-pos">
-                <div class="col-sm my-4">
-                    “We don’t teach kids to make great dancers, we teach dance to make great kids.”
-                    <br>
-                    <em>-Misty Lown</em>
-                </div>
-                <div class="col-sm">
-                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid">
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div id="mtjgd-bg" class="text-white">--}}
+{{--        <div class="color-filter-burg"></div>--}}
+{{--        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>--}}
+{{--        <div>--}}
+{{--            <div class="row tertiary-txt-pos">--}}
+{{--                <div class="col-sm my-4">--}}
+{{--                    “We don’t teach kids to make great dancers, we teach dance to make great kids.”--}}
+{{--                    <br>--}}
+{{--                    <em>-Misty Lown</em>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
-    <div id="safer-youth" class="bg-white py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: 100%; height: 100%; filter: invert(1);">
-                    </div>
-                    <h2 class="text-center">UDF is a Safer Studio™</h2>
-                    <p>
-                        UDF focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="max-height: 354.04px;">
-                    </div>
-                    <h2 class="text-center">UDF is Youth Protection Advocates in Dance®  Certified!</h2>
-                    <p>
-                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked and CPR certified teachers
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Safer Studio™ Policy
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div id="safer-youth" class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: 100%; height: 100%; filter: invert(1);">--}}
+{{--                    </div>--}}
+{{--                    <h2 class="text-center">UDF is a Safer Studio™</h2>--}}
+{{--                    <p>--}}
+{{--                        UDF focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="max-height: 354.04px;">--}}
+{{--                    </div>--}}
+{{--                    <h2 class="text-center">UDF is Youth Protection Advocates in Dance®  Certified!</h2>--}}
+{{--                    <p>--}}
+{{--                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked and CPR certified teachers--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Safer Studio™ Policy--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="gradient-splash text-white" style="min-height: 85vh; max-height: 100%;">
         <div class="container">
