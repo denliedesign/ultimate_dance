@@ -110,14 +110,17 @@ Can I try a class?
                 <span class="txt-burg-light fw-bold text-uppercase">
 Are your fees published online?
                 </span>
-                Yes. Class tuition is calculated by the amount of hours a student dances and/or tumbles.
+                No. Please call the studio for that information. Class tuition is calculated by the amount of hours a student dances and/or tumbles.
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">
 Can I watch classes?
                 </span>
-                We will be installing a closed circuit system so that you may view classes from our lobby. Please do not allow children to stand on chairs to see in the rooms as it is both dangerous and distracting! ALL VIEWING IS COVERED FROM VALENTINE'S DAY on for our teachers to work on and perfect recital dances! They are a surprise for the audience that way!!
-                <small>*no viewing window in room 2 in Melbourne</small>
+                Yes, we have windows in each dance room.
+                Please do not allow children to stand on chairs to see in the rooms as it
+                is both dangerous and distracting! ALL VIEWING IS COVERED FROM
+                VALENTINE&#39;S DAY on for our teachers to work on and perfect recital
+                dances! They are a surprise for the audience that way!!
             </li>
             <li class="my-4">
                 <span class="txt-burg-light fw-bold text-uppercase">

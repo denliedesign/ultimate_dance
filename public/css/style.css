@@ -2,9 +2,16 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.color-yellow { color: #FBBE30; }
+.background-yellow { background: #FBBE30; }
+.color-green { color: #8ED300; }
+.background-green { background: #8ED300; }
+.color-gray { color: #7A7562; }
+.background-gray { background: #7A7562; }
+
 .gradient-splash {
     /*background: linear-gradient(to right, #C60711, #C01A7F);*/
-    background: #51002B;
+    background: #0A0A0A;
 }
 
 #nav-21,
@@ -22,7 +29,7 @@ body {
 #primary-bg {
     height: 80vh;
     width: 100%;
-    background: url("/images/you-belong-here.jpg");
+    background: url("/images/header-25.jpg");
     /*background: url("/images/bg-primary.JPG");*/
     background-size: cover;
     background-position: center;

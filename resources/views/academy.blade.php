@@ -87,18 +87,17 @@
             <div class="col-sm my-3 shadow rounded mx-2 p-3">
                 <strong><u>Age Guidelines:</u></strong>
                 <br><small>(ages as of September 1st)</small>
-                <br>Ages 2-3 (Tippy Toes & Tuxedos)
-                <br>4-PK5 (PreKindergarten) Creative Dancers
-                <br>Ages K5-6 (Kindergarten-1st Grade)
-                <br>Ages 7-9 (2nd-3rd Grade)
-                <br>Ages 9-11 (4th -5th grade)
-                <br>Ages 12-14 (Middle School)
-                <br>Ages 15+ (High School)
+                <br>Ages 2-3 Ballet/Tap Combo Class 
+                <br>4-PK5 (PreKindergarten) Ballet/Tap Combo Class 
+                <br>Ages K5-7 (Kindergarten-2nd Grade) 
+                <br>Ages 8-10 (3 rd -5 th Grade) 
+                <br>Ages 11-13 (6 th -8 th Grade) 
+                <br>Ages 14-18 (9 th – 12 th Grade)
                 <br><br>
                 *Please note: when you are ready to REGISTER, you must complete the registration all the way through payment in order to be registered. The system does drop all non-paid partial registrations at midnight each night!
             </div>
             <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                <strong><u>2024-2025 TUITION SCHEDULE</u></strong>
+                <strong><u>2025-2026 TUITION SCHEDULE</u></strong>
                 <br>Please call us for tuition information
             </div>
         </div>
@@ -110,7 +109,7 @@
                 <br>Chamber of Commerce BEST Business Recipient
                 <br>ABT® Certified National Training Curriculum
                 <br>Progressing Ballet Technique® Certified Teachers
-                <br>More Than Just Great Dancing Affiliate Studio
+{{--                <br>More Than Just Great Dancing Affiliate Studio--}}
                 <br>Professionally Working & Retired Dancer Instructors
                 <br>Florida Dance Masters certified by test to teach (all subjects)
                 <br>Dance Masters of America certified by test to each (all subjects)
@@ -131,9 +130,9 @@
                 We don't just make <em>great dancers</em> we make <em>great kids!</em>
             </p>
         </div>
-        <div class="d-flex justify-content-center my-3">
-            <img src="/images/summer-graphic.JPEG" alt="summer graphic" class="img-fluid">
-        </div>
+{{--        <div class="d-flex justify-content-center my-3">--}}
+{{--            <img src="/images/summer-graphic.JPEG" alt="summer graphic" class="img-fluid">--}}
+{{--        </div>--}}
         <div class="d-flex justify-content-center my-3">
             <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
         </div>

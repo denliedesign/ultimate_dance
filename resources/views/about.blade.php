@@ -6,7 +6,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-4">Celebrating 32 Years of Arts Education</h1>
+        <h1 class="text-center my-4">Celebrating 33 Years of Arts Education</h1>
         <p>
             ULTIMATE DANCE FLORIDA began in the hustle and bustle of South Florida.  Founded in 1993 by Annette Alvarez, ULTIMATE DANCE FLORIDA opened its doors with professional instructors in a beautiful location in South Florida. After 10 successful years, Ms. Annette decided it was time to move to a smaller, family oriented  town and chose the Space Coast as the location. Upon their move, ULTIMATE DANCE in Melbourne was opened to offer students in east Central Florida the opportunity to experience dance training on a new level, with cutting edge choreography, professional level faculty and high expectations.
 {{--            In the summer of 2011, we were excited to open our second location,  ULTIMATE DANCE in Viera, the premiere dance studio within the Viera community.--}}
@@ -26,9 +26,9 @@
             However, the ULTIMATE DANCE FLORIDA commitment runs deeper than winning awards. Students are encouraged and positively guided through a caring and dedicated faculty to be their best. The focus is on providing an excellent dance program in a safe, family-oriented environment conducive to learning- for the future of Brevard’s dancers.
         </p>
         <div class="row">
-            <div class="col-sm mt-4"><img src="/images/about-1.jpg" alt="dancers in costume holding dance sign" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: center;"></div>
-            <div class="col-sm mt-4"><img src="/images/about-2.JPG" alt="dancers in costume posing" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: center;"></div>
-            <div class="col-sm mt-4"><img src="/images/about-3.jpg" alt="dancers in costume on stage" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: center;"></div>
+            <div class="col-sm mt-4"><img src="/images/about-25-a.jpg" alt="dancers in costume holding dance sign" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: center;"></div>
+            <div class="col-sm mt-4"><img src="/images/about-25-b.jpg" alt="dancers in costume posing" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: center;"></div>
+            <div class="col-sm mt-4"><img src="/images/about-25-c.jpg" alt="dancers in costume on stage" class="img-fluid" style="height: 300px; width: 100%; object-fit: cover; object-position: center;"></div>
         </div>
         <h1 class="text-center my-4">Faculty</h1>
         <p class="text-center">
@@ -125,7 +125,7 @@ cruise ships, and even as singers landing on the pop charts. He is extremely exc
 and eager to have this opportunity to continue to train and grow with the UDF Team.
 "/>
                 <x-staff
-                    name="Phoenix Aryndia Vincent"
+                    name="Phoenix Aryndia Vincent - Guest Teacher"
                     bio="
 Phoenix Aryndia Vincent is a seasoned choreographer, teacher, and dancer with training from some of the
 best in the industry. Phoenix has traveled all over the country studying from dance icons such as Mia
@@ -157,13 +157,14 @@ to teach, inspire, create, and push herself as an artist all around the world.
         <div class="gradient-splash text-white rounded shadow p-5 my-5">
             <h2 class="text-white text-center">Office Staff</h2>
             <p class="m-5">
-                <strong>Julie McKenzie</strong>, UDF Team Financial Manager and Miss Annette's Personal Assistant
+{{--                <strong>Julie McKenzie</strong>, UDF Team Financial Manager and Miss Annette's Personal Assistant--}}
+{{--                <br>--}}
+                <strong>Maia McCabe</strong>, Team Financial Manager &amp; UDF Office Manager
                 <br>
-                <strong>Angela Short</strong>, UDF Guest Services
+                <strong>Angela Short</strong>, UDF Office Assistant Manager
                 <br>
-                <strong>Maia McCabe</strong>, UDF Guest Services
-                <br>
-                <strong>Anjani Sadhoo</strong>, UDF Guest Services
+                <strong>Sharon Short</strong>, UDF Guest Services
+{{--                <strong>Anjani Sadhoo</strong>, UDF Guest Services--}}
             </p>
         </div>
         <p class="text-center">

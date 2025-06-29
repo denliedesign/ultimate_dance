@@ -168,11 +168,11 @@
         </p>
         <ul><u>Ages PK5 and under:</u>
             <li>Girls- Capezio "Jr Tyette" Ribbon Tie Tap Shoe (black patent)</li>
-            <li>Boys- Capezio "Tic-Tap-Toe" (black)</li>
+            <li>Boys- Capezio Downtown Tap Shoe Style #473 (black)</li>
         </ul>
         <ul><u>Ages K5+</u>
-            <li>(beginner - intermediate classes)  Capezio "Tic-Tap-Toe" (black)</li>
-            <li>(intermediate-advanced classes)  Bloch S0381L Adult "Audeo" Lace Up Tap Shoes (black) OR Bloch "Jason Samuels Smith" (black)</li>
+            <li>(beginner - intermediate classes)  Capezio Downtown Tap Shoe Style #473 (black)</li>
+            <li>(intermediate-advanced classes)  Bloch “Respect” Lace Up Tap Shoe Style # SO361L (black)</li>
         </ul>
         <p class="mb-0">
             <strong>Jazz: *includes combo classes</strong>
@@ -195,9 +195,10 @@
         </p>
         <ul>
             <li>Boys: Bloch Pulse Jazz Shoe SO470, (black)</li>
-            <li>5-8 So Danca “Jolie” JZ44, (black) *if they do not carry your smaller size, please purchase Bloch Pulse Jazz Shoe SO470, (black)</li>
-            <li>9-11 So Danca “Jolie” JZ44, (black)</li>
-            <li>12+ Theatricals ‘Baby Louis” 1.5 shoes, (black)</ul>
+            <li>K5-7 So Danca “Jolie” JZ44, (black) *if they do not carry your smaller size,
+                please purchase Bloch Pulse Jazz Shoe SO470, (black)</li>
+            <li>8-10 So Danca “Jolie” JZ44, (black)</li>
+            <li>11+ Theatricals ‘Baby Louis” 1.5 shoes, (black)</li>
         </ul>
         <h3 class="nic txt-burg-light mb-0 pb-0">Additional Information</h3>
 {{--        <ol>--}}

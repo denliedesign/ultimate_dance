@@ -4,8 +4,8 @@
     <div class="gradient-splash">
         <div id="primary-bg">
 {{--            <div class="color-filter-burg"></div>--}}
-            <h2 id="primary-txt-mobile" class="d-md-none">You <span style="color: #51002B;">belong</span> here <ion-icon name="heart"></ion-icon></h2>
-            <h2 id="primary-txt" class="d-none d-md-block">You <span style="color: #51002B;">belong</span> here <ion-icon name="heart"></ion-icon></h2>
+            <h2 id="primary-txt-mobile" class="d-md-none">You <span class="color-green">belong</span> here <ion-icon name="heart"></ion-icon></h2>
+            <h2 id="primary-txt" class="d-none d-md-block">You <span class="color-green">belong</span> here <ion-icon name="heart"></ion-icon></h2>
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
@@ -16,19 +16,19 @@
             <div id="next-steps">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-red">Ready To Leap In?</p>
-                        <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family">&#10097; Enroll today!</div></a>
+                        <p class="color-gray">Ready To Leap In?</p>
+                        <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family">&#10097; Enroll today!</div></a>
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-teal">Want To Give It A Try?</p>
-                        <a href="tel:+3216368966" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Call us to schedule a FREE trial class</div></a>
+                        <p class="color-yellow">Want To Give It A Try?</p>
+                        <a href="tel:+3216368966" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family">&#10097; Call us to schedule a FREE trial class</div></a>
                         {{--                    <div>--}}
                         {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
                         {{--                    </div>--}}
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-purple">Still Have Questions?</p>
-                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">&#10097; Contact Us!</div></a>
+                        <p class="color-green">Still Have Questions?</p>
+                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family">&#10097; Contact Us!</div></a>
                     </div>
                 </div>
             </div>
@@ -49,35 +49,35 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
                     <img src="/images/ages2-3.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 2-3</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 2-3</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages4-5.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Ages 4-5</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages PreK4- PreK5</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages5-6.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family mt-2" style="width: 100%;">Ages 5-6</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Ages K5-7</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages7-9.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 7-9</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 8-10</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages9-11.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Ages 9-11</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages 11-13</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages12-14.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family mt-2" style="width: 100%;">Ages 12-14</div></a>
+                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Ages 14-18</div></a>
                 </div>
-                <div class="col-sm mt-4">
-                    <img src="/images/classes-15.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family mt-2" style="width: 100%;">Ages 15+</div></a>
-                </div>
+{{--                <div class="col-sm mt-4">--}}
+{{--                    <img src="/images/classes-15.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">--}}
+{{--                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 15+</div></a>--}}
+{{--                </div>--}}
                 <div class="col-sm mt-4">
                     <img src="/images/powerhouse-team.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family mt-2" style="width: 100%;">Powerhouse Team</div></a>
+                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Powerhouse Team</div></a>
                 </div>
             </div>
         </div>

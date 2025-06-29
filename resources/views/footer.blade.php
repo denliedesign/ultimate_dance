@@ -2,16 +2,16 @@
     <div class="container">
         <div id="next-steps-copy" class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center bg-white pt-5 pb-3">
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-burg-light">Ready To Leap In?</p>
-                <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-light btn-family">&#10097; Enroll today!</div></a>
+                <p class="color-gray">Ready To Leap In?</p>
+                <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family">&#10097; Enroll today!</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-burg-dark">Want To Give It A Try?</p>
-                <a href="tel:+3216368966" class="btn-opacity"><div class="shadow btn btn-lg btn-burg-dark btn-family">&#10097; Call us to schedule a FREE trial class</div></a>
+                <p class="color-yellow">Want To Give It A Try?</p>
+                <a href="tel:+3216368966" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family">&#10097; Call us to schedule a FREE trial class</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-gold">Still Have Questions?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">&#10097; Contact Us!</div></a>
+                <p class="color-green">Still Have Questions?</p>
+                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family">&#10097; Contact Us!</div></a>
             </div>
         </div>
     </div>
