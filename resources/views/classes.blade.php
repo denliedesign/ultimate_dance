@@ -7,6 +7,9 @@
 
     <div class="container">
         <h1 class="text-center my-4">Classes</h1>
+        <div class="d-flex justify-content-center">
+            <img src="/images/25-team.jpeg" class="img-fluid mb-3" alt="">
+        </div>
         <p>ALL of our classes are taught by our expert, professional, qualified faculty, with Powerhouse Team class assistants in many of our younger classes. Our adult instructors are members of various professional dance organizations and will guide the dancer in reaching their fullest potential, while gaining confidence and self esteem. And let's not forget... most importantly- with a smile on their face! All of our class ages are as of September 1.</p>
 {{--        <p>ALL of our classes are taught by an expert, professional, qualified faculty, with Powerhouse Team class assistants in many of our younger classes. Our adult instructors are members of various professional dance organizations and will guide the dancer in reaching their fullest potential, while gaining confidence and self esteem. And lets not forget... most importantly- with a smile on their face! All of our class ages are as of September 1.</p>--}}
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">

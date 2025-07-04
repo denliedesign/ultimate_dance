@@ -115,7 +115,7 @@
                 </div>
             </div>
             <div class="col-sm">
-                <img src="/images/logo-power.jpg" alt="powerhouse logo" class="m-3 img-fluid">
+                <img src="/images/25-logo-powerhouse.jpg" alt="powerhouse logo" class="m-3 img-fluid">
                 <img src="/images/power-1.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
                 <img src="/images/power-2.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
                 <img src="/images/power-3.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
