@@ -18,8 +18,8 @@
         </div>
 
         <div class="my-5 p-3">
-            <img src="/images/25-fall-1.jpg" alt="" class="img-fluid">
-            <img src="/images/25-fall-2.jpg" alt="" class="img-fluid">
+            <img src="/images/schedule-7-4-25-a.jpg" alt="" class="img-fluid">
+            <img src="/images/schedule-7-4-25-b.jpg" alt="" class="img-fluid">
         </div>
 
         <div class="d-flex justify-content-center my-3">
