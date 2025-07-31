@@ -46,7 +46,7 @@
                 </div>
 {{--                <h2 class="text-center">Summer Intensive</h2>--}}
                 <img src="/images/25-summer-intensive.jpg" alt="summer intensive calendar" class="img-fluid">
-                <img src="/images/intensive-7-22-2025.jpg" class="img-fluid" alt="">
+                <img src="/images/intensive-7-31-25.jpg" class="img-fluid" alt="">
             </div>
             <div class="d-flex justify-content-center my-3">
                 <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
