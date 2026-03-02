@@ -12,30 +12,22 @@
             <div class="col-sm">
                 <div class="gradient-splash text-white p-3 rounded shadow">
                    <p>
-                       <strong>Be a part of the EXCITEMENT!</strong> <br>
-                       Our 2025-26 TEAM AUDITIONS ARE: <br>
-                       Friday, August 1, beginning at 4pm. <small><em>*prospective new members</em></small> <br>
-                       The 1st choreography weekend will be August 1-3
-                   </p>
-{{--                    <ul>--}}
-{{--                        <li>Minis (ages 5-11) 3:00-3:30pm</li>--}}
-{{--                        <li>Teens/Seniors (ages 12-18) 3:30pm</li>--}}
-{{--                    </ul>--}}
-                    <p>
-                       <strong>**Parent meeting immediately following tryouts.<br>
-                           **UDF Back to School Intensive Required for all prospective and current UDF Team dancers<br></strong>
-                       <br>
-                       <em>
-                           Please email UDFpowerteam@gmail.com to express your interest. <br>
-                           Include your name, age, and how much dance experience you have. <br>
-                       </em>
-                       <br>
-                       <em>ALL AGES  are welcome to audition to be part of our POWERHOUSE team!</em> <br>
-                       <br>
-                       <strong>HEY Tiny Tots Ages 3-PK5! <br>
-                           Ask us how YOU can be part of our UDF Powerhouse Team! <br></strong>
-                       <em>No audition for this age! Let Miss Annette, Team Director, know you want to be part of our UDF Team!
-                       </em>
+                       <strong>Be a part of the EXCITEMENT!</strong>
+                       <br>Our 2026-27 TEAM AUDITIONS ARE:
+                       <br>Saturday, May 30, beginning 10am-Noon
+                       <br>Final Call Auditions for those that cannot make that date are August 1.
+<br>
+                       <br><strong>**Parent meeting during tryouts.</strong>
+                       <br><strong>**UDF  Intensive Required for all prospective and current UDF Team dancers. UDF Boot Camp is highly encouraged.</strong>
+<br>
+                       <br><em>Please email UDFdance@gmail.com to express your interest.</em>
+                       <br><em>Include your name, age, and how much dance experience you have.</em>
+<br>
+                       <br><em>ALL AGES are welcome to audition to be part of our POWERHOUSE team! Please register through the website registration link.</em>
+<br>
+                       <br><strong>HEY Tiny Tots Ages 3-PK5!</strong>
+                       <br><strong>Ask us how YOU can be part of our UDF Powerhouse Team!</strong>
+                       <br><em>No audition for this age! Let Miss Annette, Team Director, know you want to be part of our UDF Team!</em>
                    </p>
                 </div>
                 <p>

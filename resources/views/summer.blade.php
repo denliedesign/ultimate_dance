@@ -6,8 +6,17 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-4">Summer Intensive 2025</h1>
-{{--        <div class="gradient-splash rounded shadow p-3 text-white">--}}
+        <h1 class="text-center my-4">Summer Classes</h1>
+        <div class="">
+            <img src="/images/26-summer.jpg" class="img-fluid" alt="">
+            <img src="/images/26-summer-2.jpg" class="img-fluid" alt="">
+        </div>
+
+        <h1 class="text-center my-4">Summer Camps</h1>
+        <div class="d-flex justify-content-center">
+            <img src="/images/26-summer-camp.jpg" class="img-fluid" alt="">
+        </div>
+        {{--        <div class="gradient-splash rounded shadow p-3 text-white">--}}
 {{--            <h4 class="text-center fw-bold mb-0 pb-0">--}}
 {{--                Join us this summer!--}}
 {{--            </h4>--}}
@@ -39,19 +48,19 @@
 {{--        </div>--}}
 
 
-        <div class="my-5 p-3">
-            <div>
-                <div class="d-flex justify-content-center">
-                    <img src="/images/intensive-gfx-2025.png" class="img-fluid" alt="">
-                </div>
+{{--        <div class="my-5 p-3">--}}
+{{--            <div>--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <img src="/images/intensive-gfx-2025.png" class="img-fluid" alt="">--}}
+{{--                </div>--}}
 {{--                <h2 class="text-center">Summer Intensive</h2>--}}
-                <img src="/images/25-summer-intensive.jpg" alt="summer intensive calendar" class="img-fluid">
-                <img src="/images/intensive-7-31-25.jpg" class="img-fluid" alt="">
-            </div>
-            <div class="d-flex justify-content-center my-3">
-                <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
-            </div>
-        </div>
+{{--                <img src="/images/25-summer-intensive.jpg" alt="summer intensive calendar" class="img-fluid">--}}
+{{--                <img src="/images/intensive-7-31-25.jpg" class="img-fluid" alt="">--}}
+{{--            </div>--}}
+{{--            <div class="d-flex justify-content-center my-3">--}}
+{{--                <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
 {{--        <div>--}}
 {{--            <p class="mt-5">--}}
@@ -156,78 +165,78 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-        <div class="gradient-splash text-white rounded shadow p-5">
-            <h2 class="text-white text-center">Guest Teachers</h2>
+{{--        <div class="gradient-splash text-white rounded shadow p-5">--}}
+{{--            <h2 class="text-white text-center">Guest Teachers</h2>--}}
 
-        <x-staff
-            name="Miss Michelle"
-            bio="
-Miss Michelle started out as a flamenco dancer at the age of 8. She discovered her love for
-dance when her Aunt was renting space at a dance school, while she was learning dances of her
-Spanish culture. Little did she know that it was that tiny window that opened a lifetime of
-opportunities. As she began her journey, she started out training where everyone else does, in
-New York City at Broadway Dance Center. Training with the greats like Frank Hatchett, Charles
-Kelly and many more. This fueled her fire to keep learning. It wasn’t even about the performing,
-although she loved it, she started teaching and discovered that’s what she really loved. Though
-she attended college to be an elementary school teacher, she decided that teaching and
-educating dancers would eventually be her future. Fast forward over 30 years later, Miss
-Michelle has been training dancers all over Long Island. Some of the MFDUSA alumni have been
-successful on and off the stage. She is proud of the MFDUSA legacy and what it represents all
-these years later. Hard work, a great work ethic and focus; all the qualities everyone needs,
-whether you are dancing or just trying to live your best life. This is what she has tried to achieve
-all these years. Miss Michelle has been teaching since she was 15 years old. She has won
-choreography awards, entertainment awards and many others, but her most cherished job is
-being a mom to 3 beautiful daughters; Ashley, Chelsey and Dominique. She has been happily
-married to her husband Michael for over 30 years and resides in Shoreham.
-"
-        />
-        <x-staff
-            name="Miss Jasmine"
-            bio="
-Raised in Palm Bay, Florida, Jasmine Sinnott-Klenotich will be entering her fourth year at The
-Juilliard School with the class of 2026, working toward a Bachelor of Fine Arts degree in dance.
-She trained extensively under Dean and Director Alicia Graf Mack, with the transition to Melissa
-Toogood’s leadership occurring during her final year. She began dancing at age 7 at local dance
-studios in Florida, and in 2018, started training with EleNoble Ballet, learning from Chiaki
-Yasukawa. During the COVID-19 pandemic, she trained online with The Washington School of
-Ballet as part of their Professional Training Division. Jasmine has enjoyed several local
-performance opportunities in Brevard County, Florida, performing at the King Center for the
-Performing Arts as well as being a part of Complexions Contemporary Ballet&#39;s Pre-Professional
-Program under co-artistic directors Dwight Rhoden and Desmond Richardson, and performing
-in their 25th Anniversary gala in 2019 at The Joyce Theatre in New York. While at Juilliard,
-Jasmine has performed works by Chanel Dasilva, Hope Boykin, Shen Wei, Pam Tanowitz, and
-Aszure Barton.
-"
-        />
-        <x-staff
-            name="Phoenix Aryndia Vincent"
-            bio="
-Phoenix Aryndia Vincent is a seasoned choreographer, teacher, and dancer with training from
-some of the best in the industry. Phoenix has traveled all over the country studying from dance
-icons such as Mia Michaels, Mandy Moore, Justin Giles, TOKYO, Dee Caspery, Jackie Sleight,
-Rick Robinson, and Darryl Yeager. Phoenix did a one on one mentoring program with Mia
-Michaels that has had a huge influence on her development of original foundational technique
-systems for dancers. She danced professionally with three different professional dance
-companies in Utah and in 2008, Phoenix opened up her own large dance studio at the age of
-28.
-<br><br>
-For nine years Phoenix was the artistic director and founder of Elle Vie Dance Company, a
-professional dance company.  With her company she has produced 5 full length shows and has
-performed in three different states. She is very innovative in her approach to dance, looking for
-new ways to entertain, new paths to create success in the industry, and never accepting a path
-or solution just because everyone else is doing it that way. She offers a high level of technical as
-well as creative training for all of her students.
-Nothing is impossible to her, and she gives that same courage and enthusiasm to her
-performers and her audience, so that all walk away inspired and empowered.
-Her most recent accomplishments include being hired to choreograph for a short film, “I See
-Rose” which shows a young girl’s journey to find her voice while being trafficked. She has also
-been accepted into American Dance Festival’s Dance Professional’s Workshop for summer of
-<br><br>
-2025 to work with former Artistic Director of Alvin Ailey American Dance Theater Robert Battle.
-She looks forward to continuing to teach, inspire, create, and push herself as an artist all
-around the world.
-"
-        />
+{{--        <x-staff--}}
+{{--            name="Miss Michelle"--}}
+{{--            bio="--}}
+{{--Miss Michelle started out as a flamenco dancer at the age of 8. She discovered her love for--}}
+{{--dance when her Aunt was renting space at a dance school, while she was learning dances of her--}}
+{{--Spanish culture. Little did she know that it was that tiny window that opened a lifetime of--}}
+{{--opportunities. As she began her journey, she started out training where everyone else does, in--}}
+{{--New York City at Broadway Dance Center. Training with the greats like Frank Hatchett, Charles--}}
+{{--Kelly and many more. This fueled her fire to keep learning. It wasn’t even about the performing,--}}
+{{--although she loved it, she started teaching and discovered that’s what she really loved. Though--}}
+{{--she attended college to be an elementary school teacher, she decided that teaching and--}}
+{{--educating dancers would eventually be her future. Fast forward over 30 years later, Miss--}}
+{{--Michelle has been training dancers all over Long Island. Some of the MFDUSA alumni have been--}}
+{{--successful on and off the stage. She is proud of the MFDUSA legacy and what it represents all--}}
+{{--these years later. Hard work, a great work ethic and focus; all the qualities everyone needs,--}}
+{{--whether you are dancing or just trying to live your best life. This is what she has tried to achieve--}}
+{{--all these years. Miss Michelle has been teaching since she was 15 years old. She has won--}}
+{{--choreography awards, entertainment awards and many others, but her most cherished job is--}}
+{{--being a mom to 3 beautiful daughters; Ashley, Chelsey and Dominique. She has been happily--}}
+{{--married to her husband Michael for over 30 years and resides in Shoreham.--}}
+{{--"--}}
+{{--        />--}}
+{{--        <x-staff--}}
+{{--            name="Miss Jasmine"--}}
+{{--            bio="--}}
+{{--Raised in Palm Bay, Florida, Jasmine Sinnott-Klenotich will be entering her fourth year at The--}}
+{{--Juilliard School with the class of 2026, working toward a Bachelor of Fine Arts degree in dance.--}}
+{{--She trained extensively under Dean and Director Alicia Graf Mack, with the transition to Melissa--}}
+{{--Toogood’s leadership occurring during her final year. She began dancing at age 7 at local dance--}}
+{{--studios in Florida, and in 2018, started training with EleNoble Ballet, learning from Chiaki--}}
+{{--Yasukawa. During the COVID-19 pandemic, she trained online with The Washington School of--}}
+{{--Ballet as part of their Professional Training Division. Jasmine has enjoyed several local--}}
+{{--performance opportunities in Brevard County, Florida, performing at the King Center for the--}}
+{{--Performing Arts as well as being a part of Complexions Contemporary Ballet&#39;s Pre-Professional--}}
+{{--Program under co-artistic directors Dwight Rhoden and Desmond Richardson, and performing--}}
+{{--in their 25th Anniversary gala in 2019 at The Joyce Theatre in New York. While at Juilliard,--}}
+{{--Jasmine has performed works by Chanel Dasilva, Hope Boykin, Shen Wei, Pam Tanowitz, and--}}
+{{--Aszure Barton.--}}
+{{--"--}}
+{{--        />--}}
+{{--        <x-staff--}}
+{{--            name="Phoenix Aryndia Vincent"--}}
+{{--            bio="--}}
+{{--Phoenix Aryndia Vincent is a seasoned choreographer, teacher, and dancer with training from--}}
+{{--some of the best in the industry. Phoenix has traveled all over the country studying from dance--}}
+{{--icons such as Mia Michaels, Mandy Moore, Justin Giles, TOKYO, Dee Caspery, Jackie Sleight,--}}
+{{--Rick Robinson, and Darryl Yeager. Phoenix did a one on one mentoring program with Mia--}}
+{{--Michaels that has had a huge influence on her development of original foundational technique--}}
+{{--systems for dancers. She danced professionally with three different professional dance--}}
+{{--companies in Utah and in 2008, Phoenix opened up her own large dance studio at the age of--}}
+{{--28.--}}
+{{--<br><br>--}}
+{{--For nine years Phoenix was the artistic director and founder of Elle Vie Dance Company, a--}}
+{{--professional dance company.  With her company she has produced 5 full length shows and has--}}
+{{--performed in three different states. She is very innovative in her approach to dance, looking for--}}
+{{--new ways to entertain, new paths to create success in the industry, and never accepting a path--}}
+{{--or solution just because everyone else is doing it that way. She offers a high level of technical as--}}
+{{--well as creative training for all of her students.--}}
+{{--Nothing is impossible to her, and she gives that same courage and enthusiasm to her--}}
+{{--performers and her audience, so that all walk away inspired and empowered.--}}
+{{--Her most recent accomplishments include being hired to choreograph for a short film, “I See--}}
+{{--Rose” which shows a young girl’s journey to find her voice while being trafficked. She has also--}}
+{{--been accepted into American Dance Festival’s Dance Professional’s Workshop for summer of--}}
+{{--<br><br>--}}
+{{--2025 to work with former Artistic Director of Alvin Ailey American Dance Theater Robert Battle.--}}
+{{--She looks forward to continuing to teach, inspire, create, and push herself as an artist all--}}
+{{--around the world.--}}
+{{--"--}}
+{{--        />--}}
 
         </div>
 
