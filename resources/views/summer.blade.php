@@ -14,7 +14,7 @@
 
         <h1 class="text-center my-4">Summer Camps</h1>
         <div class="d-flex justify-content-center">
-            <img src="/images/26-summer-camp.jpg" class="img-fluid" alt="">
+            <img src="/images/3-19-26-summer-camp.jpg" class="img-fluid" alt="">
         </div>
         {{--        <div class="gradient-splash rounded shadow p-3 text-white">--}}
 {{--            <h4 class="text-center fw-bold mb-0 pb-0">--}}
