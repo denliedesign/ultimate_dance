@@ -36,71 +36,71 @@
 {{--            <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>--}}
 {{--        </div>--}}
 
-        <div>
-            <p class="mt-5">
-                SATURDAY's are reserved for Team Rehearsals per the Team Calendar.
-                <br>
-                <br>Private lessons available by appointment, scheduled through the front desk. Private lessons must be scheduled a week in advance.
-                <br>
-                <br>
-                Please see each class for required prerequisites
-                <br>
-                <br><small>*PLEASE NOTE: Classes and teachers are subject to change, for any reason.  Classes that do not meet enrollment requirements will be combined or discontinued. If forced to temporarily close due to COVID-19, all classes will seamlessly convert to online until we are able to safely reopen. our physical location.
-                    <br>UPDATED 12/10/21</small>
-            </p>
-        </div>
+{{--        <div>--}}
+{{--            <p class="mt-5">--}}
+{{--                SATURDAY's are reserved for Team Rehearsals per the Team Calendar.--}}
+{{--                <br>--}}
+{{--                <br>Private lessons available by appointment, scheduled through the front desk. Private lessons must be scheduled a week in advance.--}}
+{{--                <br>--}}
+{{--                <br>--}}
+{{--                Please see each class for required prerequisites--}}
+{{--                <br>--}}
+{{--                <br><small>*PLEASE NOTE: Classes and teachers are subject to change, for any reason.  Classes that do not meet enrollment requirements will be combined or discontinued. If forced to temporarily close due to COVID-19, all classes will seamlessly convert to online until we are able to safely reopen. our physical location.--}}
+{{--                    <br>UPDATED 12/10/21</small>--}}
+{{--            </p>--}}
+{{--        </div>--}}
 
 
 
-        <div class="row mt-5">
-            <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                <strong>Beginner</strong> (level 1 classes) to <strong>Intermediate</strong> (level 2 classes)
+{{--        <div class="row mt-5">--}}
+{{--            <div class="col-sm my-3 shadow rounded mx-2 p-3">--}}
+{{--                <strong>Beginner</strong> (level 1 classes) to <strong>Intermediate</strong> (level 2 classes)--}}
 
-                are intended for Academy dancers with 0-3 years experience and/or new to genre.
-                <br>
-                <strong>Intermediate</strong> (2+) to <strong>Advanced</strong> (3) level classes
-                are intended for students
-                who take 4+ hours per week AND multiple classes.
-                <br><br>
-                ALL Intermediate and Advanced  classes
-                require ballet classes concurrently.
-                <br>
-                Students who dance 1-3 times a week, or need to build skills,
-                should enroll in our Beginner/Intermediate level classes.
-                <br><br>
-                PLEASE REFER TO CLASS DESCRIPTIONS FOR ALL ACRO LEVELS!
-            </div>
-            <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                Students will be tested to assure correct placement has been made.
-                <br><br>
-                Advanced classes require Director authorization.
-                <br>This is our advanced, multiple class, pre-professional UDF dancers.
-                <br><br>
-                Ballet class must be taken in conjunction with any
-                <br>
-                UDF lyrical/contemporary class, Top Gun, and /or Leaps & Turns class.
-                <br><br>
-                Ballet Performance and Ballet Tech are required for all pre-pointe and pointe students.
-                <br>
-                <u>Please be sure which class you are registering for so we won't have to move you!</u>
-            </div>
-            <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                <strong><u>Age Guidelines:</u></strong>
-                <br><small>(ages as of September 1st)</small>
-                <br>Ages 2-3 Ballet/Tap Combo Class 
-                <br>4-PK5 (PreKindergarten) Ballet/Tap Combo Class 
-                <br>Ages K5-7 (Kindergarten-2nd Grade) 
-                <br>Ages 8-10 (3 rd -5 th Grade) 
-                <br>Ages 11-13 (6 th -8 th Grade) 
-                <br>Ages 14-18 (9 th – 12 th Grade)
-                <br><br>
-                *Please note: when you are ready to REGISTER, you must complete the registration all the way through payment in order to be registered. The system does drop all non-paid partial registrations at midnight each night!
-            </div>
-            <div class="col-sm my-3 shadow rounded mx-2 p-3">
-                <strong><u>2025-2026 TUITION SCHEDULE</u></strong>
-                <br>Please call us for tuition information
-            </div>
-        </div>
+{{--                are intended for Academy dancers with 0-3 years experience and/or new to genre.--}}
+{{--                <br>--}}
+{{--                <strong>Intermediate</strong> (2+) to <strong>Advanced</strong> (3) level classes--}}
+{{--                are intended for students--}}
+{{--                who take 4+ hours per week AND multiple classes.--}}
+{{--                <br><br>--}}
+{{--                ALL Intermediate and Advanced  classes--}}
+{{--                require ballet classes concurrently.--}}
+{{--                <br>--}}
+{{--                Students who dance 1-3 times a week, or need to build skills,--}}
+{{--                should enroll in our Beginner/Intermediate level classes.--}}
+{{--                <br><br>--}}
+{{--                PLEASE REFER TO CLASS DESCRIPTIONS FOR ALL ACRO LEVELS!--}}
+{{--            </div>--}}
+{{--            <div class="col-sm my-3 shadow rounded mx-2 p-3">--}}
+{{--                Students will be tested to assure correct placement has been made.--}}
+{{--                <br><br>--}}
+{{--                Advanced classes require Director authorization.--}}
+{{--                <br>This is our advanced, multiple class, pre-professional UDF dancers.--}}
+{{--                <br><br>--}}
+{{--                Ballet class must be taken in conjunction with any--}}
+{{--                <br>--}}
+{{--                UDF lyrical/contemporary class, Top Gun, and /or Leaps & Turns class.--}}
+{{--                <br><br>--}}
+{{--                Ballet Performance and Ballet Tech are required for all pre-pointe and pointe students.--}}
+{{--                <br>--}}
+{{--                <u>Please be sure which class you are registering for so we won't have to move you!</u>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm my-3 shadow rounded mx-2 p-3">--}}
+{{--                <strong><u>Age Guidelines:</u></strong>--}}
+{{--                <br><small>(ages as of September 1st)</small>--}}
+{{--                <br>Ages 2-3 Ballet/Tap Combo Class --}}
+{{--                <br>4-PK5 (PreKindergarten) Ballet/Tap Combo Class --}}
+{{--                <br>Ages K5-7 (Kindergarten-2nd Grade) --}}
+{{--                <br>Ages 8-10 (3 rd -5 th Grade) --}}
+{{--                <br>Ages 11-13 (6 th -8 th Grade) --}}
+{{--                <br>Ages 14-18 (9 th – 12 th Grade)--}}
+{{--                <br><br>--}}
+{{--                *Please note: when you are ready to REGISTER, you must complete the registration all the way through payment in order to be registered. The system does drop all non-paid partial registrations at midnight each night!--}}
+{{--            </div>--}}
+{{--            <div class="col-sm my-3 shadow rounded mx-2 p-3">--}}
+{{--                <strong><u>2025-2026 TUITION SCHEDULE</u></strong>--}}
+{{--                <br>Please call us for tuition information--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="my-5">
             <p class="text-center pb-0 mb-0">Check out why we are the BEST studio and faculty to meet your needs:</p>
@@ -109,7 +109,6 @@
                 <br>Chamber of Commerce BEST Business Recipient
                 <br>ABT® Certified National Training Curriculum
                 <br>Progressing Ballet Technique® Certified Teachers
-{{--                <br>More Than Just Great Dancing Affiliate Studio--}}
                 <br>Professionally Working & Retired Dancer Instructors
                 <br>Florida Dance Masters certified by test to teach (all subjects)
                 <br>Dance Masters of America certified by test to each (all subjects)
@@ -130,9 +129,7 @@
                 We don't just make <em>great dancers</em> we make <em>great kids!</em>
             </p>
         </div>
-{{--        <div class="d-flex justify-content-center my-3">--}}
-{{--            <img src="/images/summer-graphic.JPEG" alt="summer graphic" class="img-fluid">--}}
-{{--        </div>--}}
+
         <div class="d-flex justify-content-center my-3">
             <a href="https://app.thestudiodirector.com/ultimatedanceflorida1/portal.sd?page=Register" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Register</div></a>
         </div>
