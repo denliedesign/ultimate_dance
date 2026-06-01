@@ -6,7 +6,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-4">Fall 2025 Schedule</h1>
+        <h1 class="text-center my-4">Fall 2026 Schedule</h1>
         <div class="gradient-splash rounded shadow p-3 text-white">
             <h4 class="text-center fw-bold mb-0 pb-0">
                 Join us this Fall!
@@ -18,8 +18,8 @@
         </div>
 
         <div class="my-5 p-3">
-            <img src="/images/schedule-9-29-25-a.jpg" alt="" class="img-fluid">
-            <img src="/images/schedule-9-29-25-b.jpg" alt="" class="img-fluid">
+            <img src="/images/26-fall-1.jpg" alt="" class="img-fluid">
+            <img src="/images/26-fall-2.jpg" alt="" class="img-fluid">
         </div>
 
         <div class="d-flex justify-content-center my-3">
