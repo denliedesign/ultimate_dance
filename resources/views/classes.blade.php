@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="text-center my-4">Classes</h1>
         <div class="d-flex justify-content-center">
-            <img src="/images/25-team.jpeg" class="img-fluid mb-3" alt="">
+            <img src="/images/Class18.jpeg" class="img-fluid mb-3" alt="">
         </div>
         <p>ALL of our classes are taught by our expert, professional, qualified faculty, with Powerhouse Team class assistants in many of our younger classes. Our adult instructors are members of various professional dance organizations and will guide the dancer in reaching their fullest potential, while gaining confidence and self esteem. And let's not forget... most importantly- with a smile on their face! All of our class ages are as of September 1.</p>
 {{--        <p>ALL of our classes are taught by an expert, professional, qualified faculty, with Powerhouse Team class assistants in many of our younger classes. Our adult instructors are members of various professional dance organizations and will guide the dancer in reaching their fullest potential, while gaining confidence and self esteem. And lets not forget... most importantly- with a smile on their face! All of our class ages are as of September 1.</p>--}}
@@ -74,14 +74,19 @@
 {{--                </p>--}}
             </div>
             <div class="col-sm mt-4">
-                <h3 class="nic txt-burg-light pb-0 mb-0">TumbleTots & Acrobatics</h3>
+                <h3 class="nic txt-burg-light pb-0 mb-0">Preschool Tumbling & Acrobatic Arts</h3>
                 <p>
-                    UDF acro classes are taught by an experienced instructor.  Our students are placed by ability, and the instructor does have final say in their placement. We concentrate on flexibility, strength, and total proper placement and technique. Students may be moved from level to level as skills change. <u>Ballet classes are STRONGLY ENCOURAGED for Level 1 & 2, and required for Level 3 and up.</u>
+                    UDF Acrobatic Arts classes are taught by an experienced and certified instructor. Our students are placed by ability, and the instructor does have final say in their placement. We concentrate on flexibility, strength, and total proper placement and technique. Students may be moved from level to level as skills change.
+                    <u>Ballet classes are STRONGLY ENCOURAGED for Level 1 & 2, and REQUIRED for Level 3 and up.</u>
                 </p>
 {{--                <p>--}}
 {{--                    UDF acro classes are taught by an experienced instructor. While many studios offer acro, we feel it is imperative for the safety of our students that we offer them a well qualified instructor with years of experience as an acrobat who has fundamental knowledge of skill based levels. Our students are placed by ability, and the instructor does have final say in their placement. We concentrate on flexibility, strength, and total proper placement and technique. Students may be moved from level to level as skills change. <strong><u>Ballet classes are STRONGLY ENCOURAGED for Level 1 & 2, and required for Level 3 and up.</u></strong>--}}
 {{--                </p>--}}
-                <a href="/images/classes-acro.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family">Acro Level Guide</div></a>
+                <a href="/images/Acro_Primary.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Primary Level Guide</div></a>
+                <a href="/images/Acro_Level_1.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 1 Guide</div></a>
+                <a href="/images/Acro_Level_2.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 2 Guide</div></a>
+                <a href="/images/Acro_Level_3.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 3 Guide</div></a>
+                <a href="/images/Acro_Level_4.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 4 Guide</div></a>
             </div>
             <div class="col-sm mt-4">
                 <h3 class="nic txt-burg-light pb-0 mb-0">Ballet/Lyrical and Jazz/Tap Combo</h3>
@@ -95,13 +100,21 @@
 {{--                </p>--}}
             </div>
             <div class="col-sm mt-4">
-                <h3 class="nic txt-burg-light pb-0 mb-0">Top Gun Class & Leaps, Flex, & Turns<br>
-                    (Technique only classes! *no recital dances)</h3>
+                <h3 class="nic txt-burg-light pb-0 mb-0">Contemporary</h3>
                 <p>
-                    Our TECHNIQUE ONLY classes are required of our Powerhouse Team members, but open to all UDF dancers who are enrolled in 1 ballet and 2 other classes.
+                    Contemporary Dance blends elements of ballet, jazz, and modern dance to encourage creativity, expression, and versatility. Dancers develop strength, flexibility, musicality, and emotional storytelling through fluid movement and innovative choreography, making it an inspiring style for students of all levels.
+                </p>
+            </div>
+            <div class="col-sm mt-4">
+                <h3 class="nic txt-burg-light pb-0 mb-0">Specialty Classes<br>Technique only classes!</h3>
+                <p>
+                    Top Gun Conditioning: Focuses on strength, balance, control, and endurance
+                    <br>Progressing Ballet Technique: Focuses on flexibility, core strength, and ballet technique
+                    <br>Leaps/Turns/Flexibility Class: Focuses on various leaps, turns, and flexibility
                     <br><br>
-                    This class will focus on leaps, turns, stretching, flexibility, core strength, balance, and other skills to enhance our regular dance classes and the dancer.
-                    Dancers in this class will fine tune their skills and grow in strength, confidence, flexibility, and technique.
+                    Our TECHNIQUE ONLY classes are required of our Powerhouse Team members, but open to all UDF dancers who are enrolled in 1 ballet class AND 2 other classes of choice.
+                    <br><br>
+                    This class will focus on leaps, turns, stretching, flexibility, core strength, balance, and other skills to enhance our regular dance classes and the dancer. Dancers in this class will fine tune their skills and grow in strength, confidence, flexibility, and technique.
                 </p>
 {{--                <p>--}}
 {{--                    Our <strong>TECHNIQUE ONLY</strong> classes are required of our Powerhouse Team members, but open to all UDF dancers who are enrolled in at least  ballet and 2 other classes.--}}
@@ -140,8 +153,8 @@
         </div>
         <p>
 {{--            <strong>All female dancers</strong> (except Hip Hop and Acro) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.--}}
-            <strong>All Preschool Female Dancers</strong> are expected to be in a light pink leotard (with or without attached skirt) and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette. *We sell this leotard at the studio
-            <br>
+{{--            <strong>All Preschool Female Dancers</strong> are expected to be in a light pink leotard (with or without attached skirt) and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette. *We sell this leotard at the studio--}}
+{{--            <br>--}}
             <strong>All School Age Female Dancers</strong> (except Hip Hop) are expected to be in a burgundy/maroon leotard and ballet pink convertible tights. Neat bun with hair net for all classes. This is expected dance etiquette.
             <br>
 {{--            <strong>Hip Hop</strong> may wear anything, except exposed zippers or rivets that could damage the floor.--}}
@@ -175,7 +188,7 @@
         </ul>
         <ul><u>Ages K5+</u>
             <li>(beginner - intermediate classes)  Capezio Downtown Tap Shoe Style #473 (black)</li>
-            <li>(intermediate-advanced classes)  Bloch “Respect” Lace Up Tap Shoe Style # SO361L (black)</li>
+            <li>(intermediate-advanced classes)  Capezio Roxy Tap Shoe (black)</li>
         </ul>
         <p class="mb-0">
             <strong>Jazz: *includes combo classes</strong>
@@ -198,10 +211,9 @@
         </p>
         <ul>
             <li>Boys: Bloch Pulse Jazz Shoe SO470, (black)</li>
-            <li>K5-7 So Danca “Jolie” JZ44, (black) *if they do not carry your smaller size,
-                please purchase Bloch Pulse Jazz Shoe SO470, (black)</li>
-            <li>8-10 So Danca “Jolie” JZ44, (black)</li>
-            <li>11+ Theatricals ‘Baby Louis” 1.5 shoes, (black)</li>
+            <li>Girls Ages K5-8: Bloch Pulse Jazz Shoe SO470, (black)</li>
+            <li>Girls ages 9-11:  Capezio Femme Pedini (black)</li>
+            <li>Girls ages 12+:  Capezio Jr Character Shoe (black)</li>
         </ul>
         <h3 class="nic txt-burg-light mb-0 pb-0">Additional Information</h3>
 {{--        <ol>--}}
@@ -223,7 +235,7 @@
             <li class="my-3"><strong>ABT examinations:</strong> When offered, students who take optional ABT examinations will be required to purchase required examination leotard and skirt for the examination.</li>
 {{--            <li class="my-3"><strong>Boy shorts:</strong>  Only burgundy, maroon, or black cherry shorts are permitted.  No black.</li>--}}
             <li class="my-3"><strong>Trial classes:</strong>  Students who are "trying class", please wear dance wear if you have it, if not, please wear fitted clothes.</li>
-            <li class="my-3"><strong>Dancewear:</strong>  All dance wear is available online through various dance wear websites, or at Melbourne Dance Wear on US1 or Dance Gear on Barton Road. Please ask us if you are having trouble locating any of our required items. Please do not "substitute" any required items.</li>
+            <li class="my-3"><strong>Dancewear:</strong> All dance wear is available online through various dance wear websites. Please ask us if you are having trouble locating any of our required items. Please do not "substitute" any required items.</li>
             <li class="my-3">Items may be updated as discontinued or unavailable. We will provide an alternative for the item.</li>
             <li class="my-3"><strong>No runs or holes in tights.</strong>  While a small hole or "run" is acceptable, large holes and multiple runs are not. Please replace promptly when these holes appear. Tights are sold at the studio.</li>
             <li class="my-3"><strong>Cell phones</strong> are expected to be on silent and put away in dance bags. If you have an emergency and need to reach your dancer, please call the studio and we will get your child for you.</li>
@@ -231,13 +243,13 @@
         <h3 class="nic txt-burg-light mb-0 pb-0">Dance Wear</h3>
         <p>
             FOR DANCE WEAR, BELOW ARE A FEW WEBSITES TO CHECK OUT!
-            <br>Please enter Teacher Referral ID TP26192 on your Discount Dance order for 10% OFF!!
+{{--            <br>Please enter Teacher Referral ID TP26192 on your Discount Dance order for 10% OFF!!--}}
         </p>
         <a href="http://www.discountdance.com/" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family m-3">Discount Dance</div></a>
         <a href="http://www.dancewearcorner.com/" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family m-3">Dancewear Corner</div></a>
         <a href="https://www.dancewearsolutions.com/" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family m-3">Dancewear Solutions</div></a>
 {{--        <a href="http://www.dancegearaccessories.com/" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family m-3">Dance Gear (in Rockledge)</div></a>--}}
-        <a href="http://www.melbournedancewear.com/" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family m-3">Melbourne Dance Wear</div></a>
+{{--        <a href="http://www.melbournedancewear.com/" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family m-3">Melbourne Dance Wear</div></a>--}}
 {{--        <p>--}}
 {{--            ULTIMATE DANCE WILL HAVE "THEMED DRESS DANCE WEEKS" THROUGHOUT THE YEAR! ON THESE, WEEKS, STUDENTS MAY CHOOSE TO DRESS IN THE THEME, OR STAY IN DRESS CODE. THESE WEEKS WILL BE POSTED ON THE WEBSITE AND AT THE STUDIOS FOR THE DANCERS TO PLAN THEIR OUTFITS!--}}
 {{--            <br>--}}

@@ -46,38 +46,38 @@
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
             <h2 class="text-center pt-5">Dance Classes</h2>
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm mt-4">
-                    <img src="/images/ages2-3.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 2-3</div></a>
+                    <img src="/images/ages-3-5.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 3-5</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/ages4-5.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages PreK4- PreK5</div></a>
+                    <img src="/images/ages-k5-8.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages PreK5- 8</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/ages5-6.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Ages K5-7</div></a>
+                    <img src="/images/ages-9-11.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Ages 9-11</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/ages7-9.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 8-10</div></a>
+                    <img src="/images/ages-12-15.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 12-15</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/ages9-11.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages 11-13</div></a>
+                    <img src="/images/ages-15-and-up.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages 15+</div></a>
                 </div>
-                <div class="col-sm mt-4">
-                    <img src="/images/ages12-14.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Ages 14-18</div></a>
-                </div>
+{{--                <div class="col-sm mt-4">--}}
+{{--                    <img src="/images/ages12-14.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">--}}
+{{--                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Ages 14-18</div></a>--}}
+{{--                </div>--}}
 {{--                <div class="col-sm mt-4">--}}
 {{--                    <img src="/images/classes-15.JPG" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">--}}
 {{--                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 15+</div></a>--}}
 {{--                </div>--}}
                 <div class="col-sm mt-4">
-                    <img src="/images/powerhouse-team.jpg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Powerhouse Team</div></a>
+                    <img src="/images/26-team.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
+                    <a href="/powerhouse" class="btn-opacity"><div class="shadow btn btn-lg background-green btn-family mt-2" style="width: 100%;">Powerhouse Team</div></a>
                 </div>
             </div>
         </div>
@@ -129,6 +129,142 @@
                 <div class="col-sm d-flex align-items-center justify-content-center">
                     <div class="">
                         <img src="/images/program-abt.jpg" alt="ballet dancer on beach" class="img-fluid rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="bg-white py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm d-flex align-items-center">
+                    <div>
+                        <div class="acro-news-section py-5">
+                            <div>
+                                <div>
+                                    <div>
+                                        <article class="acro-news-card">
+
+                                            <h2 class="acro-title mb-3">
+                                                Big Acro News &amp; A Huge Congratulations to Miss Angela! 🤸✨
+                                            </h2>
+
+                                            <p class="acro-subtitle mb-3">
+                                                🤸 Big Acro News at UDF!
+                                            </p>
+
+                                            <p>
+                                                At UDF, we are always striving to bring the very best training and education to our dancers—and
+                                                we are excited to share some BIG news about our Acro program!
+                                            </p>
+
+                                            <p>
+                                                Acrobatic Arts is one of the industry’s leading AcroDance training programs, providing dance
+                                                educators with comprehensive certification to safely and effectively teach acro technique. Their
+                                                curriculum covers everything from anatomy and technique to progressions, lesson planning,
+                                                choreography, and skill development—ensuring dancers build strength, flexibility, and technique
+                                                the right way.
+                                            </p>
+
+                                            <p class="mb-1">
+                                                So... what exactly is <strong>AcroDance?</strong>
+                                            </p>
+
+                                            <p>
+                                                AcroDance, or simply “Acro,” is the incredible fusion of classical dance technique and the
+                                                strength, precision, and athleticism of acrobatic movement. It combines beautiful lines,
+                                                flexibility, musicality, and emotional expression with dynamic acrobatic elements to create a
+                                                powerful and exciting performance style.
+                                            </p>
+
+                                            <p>
+                                                With roots in traditional Chinese dance and a rich history on the Vaudeville stage, Acro has
+                                                grown tremendously in popularity over the years—especially through the influence of productions
+                                                like Cirque du Soleil and television shows like <em>So You Think You Can Dance</em>,
+                                                <em>America's Best Dance Crew</em>, and <em>Dance Moms</em>.
+                                            </p>
+
+                                            <div class="acro-skills-box my-4 p-4">
+                                                <p class="text-center mb-3">
+                                                    Acro is one of the most challenging dance styles to master because it requires training in
+                                                    both dance and acrobatic technique. Dancers develop skills in:
+                                                </p>
+
+                                                <div class="row justify-content-center">
+                                                    <div class="col-sm-8 col-md-6 col-lg-4">
+                                                        <ul class="acro-skills-list list-unstyled mb-0">
+                                                            <li>✨ Balancing</li>
+                                                            <li>✨ Limbering</li>
+                                                            <li>✨ Tumbling</li>
+                                                            <li>✨ Partnering</li>
+                                                            <li>✨ Flexibility</li>
+                                                            <li>✨ Strength</li>
+                                                            <li>✨ Control</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="acro-congrats-section mt-5">
+
+                                                <p class="mb-2">
+                                                    And now for the exciting part...
+                                                </p>
+
+                                                <h3 class="acro-congrats mb-2">
+                                                    🎉 Congratulations, Miss Angela!
+                                                </h3>
+
+                                                <p>
+                                                    We are incredibly proud to celebrate Miss Angela for recently completing the extensive certification process for
+                                                    <strong>Module 1</strong> through Acrobatic Arts!
+                                                </p>
+
+                                                <div class="acro-certification-box text-center my-4 py-4">
+                                                    <p class="mb-2">
+                                                        This certification covers <strong>Levels 1–6</strong> and required:
+                                                    </p>
+
+                                                    <ul class="acro-certification-list list-unstyled mb-0">
+                                                        <li>✔ Comprehensive book work</li>
+                                                        <li>✔ Online skill demonstrations</li>
+                                                        <li>✔ Written testing</li>
+                                                    </ul>
+                                                </div>
+
+                                                <p>
+                                                    We are thrilled for her to take the lead in growing and strengthening our Acro program at UDF. Her dedication
+                                                    to continuing education and excellence means our dancers will receive top-level training in a safe, progressive,
+                                                    and technically strong environment.
+                                                </p>
+
+                                                <p>
+                                                    We are confident she will help develop some of the strongest acrobats in all of Brevard County! 💙
+                                                </p>
+
+                                                <p class="mt-4 mb-0">
+                                                    The future of Acro at UDF is bright,<br>
+                                                    and we cannot wait to watch our students grow, strengthen, and soar! ✨
+                                                </p>
+
+                                            </div>
+
+                                        </article>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm d-flex align-items-center justify-content-center">
+                    <div class="">
+                        <img src="/images/aa-graphic.jpeg" alt="girl in one-handed handstand" class="img-fluid">
+                        <img src="/images/aa-certification.jpeg" alt="program logo" class="img-fluid">
+                        <img src="/images/aa-badge.jpeg" alt="program logo" class="img-fluid">
                     </div>
                 </div>
             </div>

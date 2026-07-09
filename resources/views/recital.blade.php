@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="text-center my-4">Recital</h1>
         <p class="text-center">
-            Our &quot;UDF 33rd Celebration of Dance&quot; will take place May 16, 2026 (tentative) 
+            Our &quot;UDF 34th Celebration of Dance&quot; will take place May 15-16, 2027 *tentative 
             <br>Stay tuned for show updates!
         </p>
     </div>

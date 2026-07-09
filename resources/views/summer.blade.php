@@ -6,11 +6,11 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-4">Summer Classes</h1>
-        <div class="">
-            <img src="/images/2026-summer-1.jpg" class="img-fluid" alt="">
-            <img src="/images/2026-summer-2.jpg" class="img-fluid" alt="">
-        </div>
+{{--        <h1 class="text-center my-4">Summer Classes</h1>--}}
+{{--        <div class="">--}}
+{{--            <img src="/images/2026-summer-1.jpg" class="img-fluid" alt="">--}}
+{{--            <img src="/images/2026-summer-2.jpg" class="img-fluid" alt="">--}}
+{{--        </div>--}}
 
         <h1 class="text-center my-4">Summer Camps</h1>
         <div class="d-flex justify-content-center">

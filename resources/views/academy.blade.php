@@ -108,6 +108,7 @@
                 TOP STUDIO & NATIONALLY RANKED studio in the SE United States!
                 <br>Chamber of Commerce BEST Business Recipient
                 <br>ABT® Certified National Training Curriculum
+                <br>Certified ACROBATIC ARTS® studio
                 <br>Progressing Ballet Technique® Certified Teachers
                 <br>Professionally Working & Retired Dancer Instructors
                 <br>Florida Dance Masters certified by test to teach (all subjects)

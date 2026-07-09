@@ -9,7 +9,7 @@
         <p class="text-center mt-4">When choosing who you want to compete with, go with the BEST and GROW exponentially</p>
         <h1 class="text-center mb-4">The Ultimate Powerhouse Team!</h1>
         <div class="row">
-            <div class="col-sm">
+            <div>
                 <div class="gradient-splash text-white p-3 rounded shadow">
                    <p>
                        <strong>Be a part of the EXCITEMENT!</strong>
@@ -106,14 +106,17 @@
                     </p>
                 </div>
             </div>
-            <div class="col-sm">
-                <img src="/images/25-logo-powerhouse.jpg" alt="powerhouse logo" class="m-3 img-fluid">
-                <img src="/images/power-1.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
-                <img src="/images/power-2.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
-                <img src="/images/power-3.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
-                <img src="/images/power-4.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
-                <img src="/images/power-5.jpg" alt="powerhouse dancer" class="m-3 img-fluid">
-            </div>
+        </div>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
+            <img src="/images/25-logo-powerhouse.jpg" alt="powerhouse logo" class="my-3 img-fluid">
+            <img src="/images/comp-1.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-2.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-3.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-4.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-5.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-6.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-7.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
+            <img src="/images/comp-8.jpeg" alt="powerhouse dancer" class="my-3 img-fluid">
         </div>
 {{--        <p>--}}
 {{--            <strong>PARENTS</strong> must have proven they can follow directions, <strong>communicate in a non-confrontational manner</strong>, and be willing to commit to the time commitment and financial responsibilities associated with Team membership. Parents must also have a "thick skin" when it comes to their child's corrections, consequences of inappropriate actions, including judges comments. Parents must start to help their children develop communication skills with their teachers, avoiding interfering with that communication whenever possible. They must encourage their children to speak with their teachers directly with questions or concerns. They also need to understand that there is nothing unusual about a dancer that occasionally cries when they get home from dance. Most of the time it is out of frustration, or they are struggling with the overall difficulty of an advancing dance curriculum. Those emotions are completely normal, and unless the dancer is never happy after class or has more complaints than positives, parents should assist their dancer in working through whatever it is that is bothering them and help them gain perspective, without interfering with the training or attempting to alter the circumstances. For our Senior Team, ages 14+, by this stage in their training, dancers are working as if they are planning to enter a college dance program or begin to audition after graduation, whether or not they actually end up doing so. They cannot make the decision to train that way any later than when beginning high school, or it will be too late.--}}
