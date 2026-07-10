@@ -82,11 +82,11 @@
 {{--                <p>--}}
 {{--                    UDF acro classes are taught by an experienced instructor. While many studios offer acro, we feel it is imperative for the safety of our students that we offer them a well qualified instructor with years of experience as an acrobat who has fundamental knowledge of skill based levels. Our students are placed by ability, and the instructor does have final say in their placement. We concentrate on flexibility, strength, and total proper placement and technique. Students may be moved from level to level as skills change. <strong><u>Ballet classes are STRONGLY ENCOURAGED for Level 1 & 2, and required for Level 3 and up.</u></strong>--}}
 {{--                </p>--}}
-                <a href="/images/Acro_Primary.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Primary Level Guide</div></a>
-                <a href="/images/Acro_Level_1.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 1 Guide</div></a>
-                <a href="/images/Acro_Level_2.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 2 Guide</div></a>
-                <a href="/images/Acro_Level_3.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 3 Guide</div></a>
-                <a href="/images/Acro_Level_4.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 4 Guide</div></a>
+                <a href="/images/aa-primary.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Primary Level Guide</div></a>
+                <a href="/images/aa-lvl-1.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 1 Guide</div></a>
+                <a href="/images/aa-lvl-2.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 2 Guide</div></a>
+                <a href="/images/aa-lvl-3.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 3 Guide</div></a>
+                <a href="/images/aa-lvl-4.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gold btn-family my-2 me-2">Acro Level 4 Guide</div></a>
             </div>
             <div class="col-sm mt-4">
                 <h3 class="nic txt-burg-light pb-0 mb-0">Ballet/Lyrical and Jazz/Tap Combo</h3>
