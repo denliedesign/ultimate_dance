@@ -49,11 +49,11 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm mt-4">
                     <img src="/images/ages-3-5.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 3-5</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-gray btn-family mt-2" style="width: 100%;">Ages 2 1/2-PreK5</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages-k5-8.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
-                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages PreK5- 8</div></a>
+                    <a href="/academy#age-1" class="btn-opacity"><div class="shadow btn btn-lg background-yellow btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ages-9-11.jpeg" alt="dancers" class="img-fluid shadow rounded" style="height: 450px; object-fit: cover; object-position: center; width: 100%;">
